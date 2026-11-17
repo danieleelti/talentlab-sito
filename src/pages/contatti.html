@@ -1,0 +1,85 @@
+<main id="main">
+  <!-- Testi: solo quelli del sito attuale talentlabconsulting.it (decisione di Daniele, 17/11/2026) -->
+
+  <!-- K1 · Eroe corto -->
+  <section class="hero hero--short section--dark" data-hero aria-labelledby="hero-title">
+    <div class="hero__media">
+      [[pic name="riunione" sizes="100vw" eager pos="50% 45%" alt="Un gruppo di lavoro riunito attorno a un tavolo di marmo, visto dall'alto"]]
+    </div>
+    <div class="hero__veil"></div>
+    <div class="hero__shade"></div>
+    <div class="wrap hero__inner">
+      <p class="label" data-hero-item>Contatti</p>
+      <h1 class="display" id="hero-title" data-split>Parla con il nostro <em>Team</em>.</h1>
+      <p class="lead hero__lead" data-hero-item>Per richiedere informazioni sui nostri servizi o per essere ricontattato dal nostro Team di esperti.</p>
+    </div>
+  </section>
+
+  <!-- K2 · Contatti e modulo -->
+  <section class="section section--light" aria-label="Contatti e modulo">
+    <div class="wrap contact__grid">
+      <div>
+        <ul class="methods">
+          <li class="method" data-reveal>
+            [[icon envelope-simple]]
+            <p class="label label--plain">E-mail</p>
+            <a class="method__value" href="mailto:info@talentlabconsulting.it">info@talentlabconsulting.it</a>
+            <div class="method__actions">
+              <button class="chip" type="button" data-copy="info@talentlabconsulting.it">[[icon copy]] <span data-copy-label>Copia</span></button>
+            </div>
+          </li>
+          <li class="method" data-reveal>
+            [[icon whatsapp-logo]]
+            <p class="label label--plain">Chatta con noi</p>
+            <a class="method__value" href="https://wa.me/393806338747" target="_blank" rel="noopener">+39 380 633 8747</a>
+            <div class="method__actions">
+              <a class="chip" href="https://wa.me/393806338747" target="_blank" rel="noopener">WhatsApp [[icon arrow-up-right]]</a>
+            </div>
+          </li>
+          <li class="method" data-reveal>
+            [[icon file-pdf]]
+            <p class="label label--plain">Brochure</p>
+            <a class="method__value" href="{{BROCHURE}}" target="_blank" rel="noopener">Scarica la nostra Brochure</a>
+            <div class="method__actions">
+              <a class="chip" href="{{BROCHURE}}" target="_blank" rel="noopener">PDF [[icon arrow-up-right]]</a>
+            </div>
+          </li>
+        </ul>
+        <p class="legal" data-reveal><span>Marchio di Proprietà di OCC Consulting Srl</span> · <span>P.iva: 02180480689</span> · <span>CF: 02180480689</span></p>
+      </div>
+
+      <form class="form" id="modulo" data-form novalidate aria-labelledby="form-title" data-reveal>
+        <h2 class="form__title" id="form-title">Scrivici</h2>
+        <div class="field">
+          <label for="f-nome">Nome</label>
+          <input id="f-nome" name="nome" type="text" autocomplete="name" required aria-describedby="e-nome">
+          <p class="field__error" id="e-nome">[[icon warning-circle]]<span></span></p>
+        </div>
+        <div class="field">
+          <label for="f-email">E-mail</label>
+          <input id="f-email" name="email" type="email" autocomplete="email" inputmode="email" required aria-describedby="e-email">
+          <p class="field__error" id="e-email">[[icon warning-circle]]<span></span></p>
+        </div>
+        <div class="field">
+          <label for="f-msg">Messaggio</label>
+          <textarea id="f-msg" name="messaggio" required aria-describedby="e-msg"></textarea>
+          <p class="field__error" id="e-msg">[[icon warning-circle]]<span></span></p>
+        </div>
+        <div class="check-wrap">
+          <label class="check"><input type="checkbox" name="privacy" required aria-describedby="e-privacy"><span><a href="https://talentlabconsulting.it/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a> *</span></label>
+          <p class="field__error" id="e-privacy">[[icon warning-circle]]<span></span></p>
+        </div>
+        <button class="btn btn--primary" type="submit" data-magnetic>Invia [[icon arrow-right]]</button>
+        <div class="form__ok" tabindex="-1" role="status">
+          <p><strong>Stiamo aprendo la tua app di posta.</strong></p>
+          <p>Il messaggio è già scritto: premi «Invia» nella mail. Se non si apre niente, scrivi a info@talentlabconsulting.it oppure copia il testo.</p>
+          <div class="btn-row">
+            <a class="chip" href="mailto:info@talentlabconsulting.it" data-ok-mailto>[[icon envelope-simple]] Riapri la mail</a>
+            <button class="chip" type="button" data-copy="">[[icon copy]] <span data-copy-label>Copia il messaggio</span></button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </section>
+
+</main>

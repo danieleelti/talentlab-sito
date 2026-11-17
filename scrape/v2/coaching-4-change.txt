@@ -1,0 +1,27 @@
+   86 1133 [25px 700] MENU
+  246 1111 [33px 700] C4C
+  295  717 [42px 400] COACHING FOR CHANGE
+  345  771 [31px 400] Cambiare non significa solo scegliere
+  383  860 [31px 400] Significa prepararsi alla scelta
+  453  591 [21px 400] Un percorso dedicato a Gestori della Clientela che operano in Banca e stanno valutando un cambiamento professionale verso un altro Istituto, mantenendo il ruolo o evolvendolo.
+  623  594 [21px 400] Ti affianchiamo con metodo ed esperienza per affrontare il cambiamento in modo consapevole, valorizzando il tuo profilo, la tua esperienza e il tuo potenziale di mercato.
+  996  230 [21px 400] LE FASI DEL PERCORSO
+ 1072  318 [18px 400] PREPARAZIONE
+ 1077  977 [18px 400] PROFILO
+ 1148  904 [18px 400] Revisione del CV, soft skill e competenze di ruolo
+ 1161  230 [18px 400] Preparazione ai colloqui con simulazioni e feedback mirato
+ 1158  562 [19px 400] Analisi post colloquio, lettura degli esiti e definizione dei prossimi passi
+ 1311  476 [18px 400] MERCATO
+ 1320  888 [16px 400] CLIENTELA
+ 1395  404 [18px 400] Analisi del potenziale di mercato attuale e trasferibile
+ 1389  817 [18px 400] Strategia e approccio verso la clientela attuale e potenziale
+ 1701  457 [16px 400] METODO ED ESPERIENZA NEL SETTORE
+ 1694  889 [16px 400] APPROCCIO PERSONALIZZATO
+ 1773  382 [18px 400] Un percorso strutturato basato su esperienza reale nel mondo del Banking & Finance
+ 1765  817 [19px 400] Ogni percorso è unico e costruito sulla tua storia, i tuoi obiettivi e il tuo contesto
+ 1901  446 [18px 400] VISIONE REALISTICA
+ 1900  888 [16px 400] SUPPORTO CONTINUATIVO
+ 1995  374 [18px 400] Analisi oggettiva delle potenzialità di mercato e delle prospettive di crescita
+ 1995  822 [18px 400] Al tuo fianco in tutte le fasi, fino alla scelta finale e oltre
+ 2118  839 [58px 700] Nuove strade
+ 2188  839 [58px 700] nuove prospettive

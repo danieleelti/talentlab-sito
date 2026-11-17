@@ -1,0 +1,1 @@
+ok docs/immagini/out/riccardo-skyline-v1.png image/jpeg {"promptTokenCount":1071,"candidatesTokenCount":1371,"totalTokenCount":2679,"promptTokensDetails":[{"modality":"TEXT","tokenCount":297},{"modality":"IMAGE","tokenCount":774}],"candidatesTokensDetails":[{"modality":"IMAGE","tokenCount":1120}],"thoughtsTokenCount":237,"serviceTier":"standard"}

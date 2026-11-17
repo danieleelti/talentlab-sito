@@ -1,0 +1,29 @@
+   86 1133 [25px 700] MENU
+  267  236 [16px 400] CAMPI DI AZIONE
+  309  236 [51px 400] UN FRAMEWORK
+  370  236 [51px 400] DIVERSI CAMPI DI AZIONE
+  478  236 [21px 400] Il nostro framework proprietario integra metodologie, strumenti e competenze
+  558  236 [21px 400] per generare valore nelle aree chiave
+  598  236 [21px 400] del talento, delle persone e delle organizzazioni
+  852 1059 [33px 400] Stessi principi
+  898 1045 [33px 400] contesti diversi
+  944 1027 [33px 400] risultati concreti
+ 1527  253 [34px 400] >
+ 1530  753 [34px 400] >
+ 2065  243 [34px 400] >
+ 2066  758 [34px 400] >
+ 2163  232 [49px 400] Un framework
+ 2160  695 [16px 400] Il nostro Strategic System è un framework proprietario che unisce metodo, visione e concretezza, capace di adattarsi a contesti e bisogni specifici di ogni realtà
+ 2222  232 [49px 400] integrato e flessibile
+ 2285  695 [16px 400] Ogni ambito può vivere oppure, quando genera maggior valore, con altri ambiti in un sistema integrato
+ 2285  905 [16px 700] autonomamente
+ 2316  906 [16px 700] dialogare
+ 2554  230 [16px 400] METODOLOGIE INTEGRATE
+ 2550  736 [16px 400] COMPETENZE MULTIDISCIPLINARI
+ 2554 1007 [16px 400] VALORE SOSTENIBILE
+ 2612  227 [16px 400] un impianto metodologico chiaro e riconoscibile
+ 2606  752 [16px 400] ogni ambito può essere autonomo dagli altri
+ 2614  977 [16px 400] soluzioni concrete per persone, team
+ 2652  977 [16px 400] e organizzazioni
+ 2775  222 [51px 400] Diversi ambiti
+ 2836  222 [51px 400] un'unica direzione

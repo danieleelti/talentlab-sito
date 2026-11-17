@@ -1,0 +1,29 @@
+   86 1133 [25px 700] MENU
+  259  211 [16px 400] DIVISIONE
+  252  368 [23px 400] ANGEL
+  315  231 [29px 400] NON CERCHIAMO
+  350  231 [29px 400] UNA PERSONA PER UN'AZIENDA
+  385  231 [29px 400] CERCHIAMO L'AZIENDA GIUSTA
+  419  231 [29px 400] PER LA PERSONA
+  485  232 [23px 400] Executive Career Advisory per Consulenti Finanziari, Banker e professionisti del settore
+  596  227 [21px 400] Nella Divisione Angel il nostro cliente è il professionista. Affianchiamo Consulenti Finanziari, Private Banker nella definizione del proprio percorso professionale, ricercando sul mercato le organizzazioni più coerenti con il loro profilo, le loro aspirazioni e il loro progetto di vita.
+ 1068  653 [20px 400] RICERCARE
+ 1065  983 [20px 400] SELEZIONARE
+ 1078  343 [20px 400] RILEVARE
+ 1152  249 [18px 400] Ascoltiamo la tua storia professionale, i tuoi valori, le tue aspettative e il progetto che vuoi costruire
+ 1143  562 [18px 400] Analizziamo il mercato e individuiamo le organizzazioni più coerenti con il tuo profilo e i tuoi obiettivi
+ 1144  905 [18px 400] Costruiamo e condividiamo con te una rosa di opportunità qualificate con informazioni chiare e trasparenti
+ 1324  641 [20px 400] CONNETTERE
+ 1351 1032 [16px 400] SCOPRI
+ 1410  553 [18px 400] Ti accompagniamo nel confronto con le aziende e nei colloqui, offrendo supporto e consulenza fino alla scelta finale
+ 1549  241 [18px 400] PERCHÉ DIVISIONE ANGEL
+ 1549 1025 [16px 400] UN PERCORSO SU MISURA
+ 1569 1084 [16px 400] DALLA PERSONA ALL'OPPORTUNITÀ
+ 1722  379 [18px 400] APPROCCIO SARTORIALE
+ 1722  897 [16px 400] CONOSCENZA DEL MERCATO
+ 1763  379 [16px 400] Ogni percorso è UNICO
+ 1754  896 [16px 400] Accesso a opportunità reali e qualificate
+ 1969  383 [16px 400] ESPERIENZA NEL SETTORE
+ 1969  892 [16px 400] TALENT UNITS
+ 2004  379 [16px 400] Conosciamo la professione, le logiche, le aziende, le persone
+ 2175  232 [58px 700] Il nostro vero cliente sei tu

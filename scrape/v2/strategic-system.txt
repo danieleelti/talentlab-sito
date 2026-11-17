@@ -1,0 +1,33 @@
+   86 1133 [25px 700] MENU
+  276  236 [16px 400] IL NOSTRO FRAMEWORK
+  320  231 [51px 400] Un sistema
+  381  231 [51px 400] più possibilità
+  442  231 [51px 400] di intervento
+  542  231 [20px 400] Talent Lab OS Strategic System è il nostro framework proprietario attraverso cui progettiamo
+  638  231 [20px 400] e realizziamo interventi su persone, team ed organizzazioni
+  721  231 [20px 400] Non un percorso predefinito
+  753  231 [20px 400] non una sequenza obbligata di servizi
+  785  231 [20px 400] ma una struttura solida e flessibile capace
+  817  231 [20px 400] di adattarsi a contesti e bisogni specifici
+  868  231 [20px 400] Ogni intervento può vivere autonomamente
+  900  231 [20px 400] oppure, quando genera maggior valore, dialogare con altri ambiti dello Strategic System
+  907  946 [23px 400] Un framework comune
+  935  952 [23px 400] interventi indipendenti
+  962  864 [23px 400] soluzioni costruite sul bisogno
+ 1059  222 [49px 400] Come funziona lo Strategic System
+ 1086  708 [18px 400] Una struttura comune che integra metodo, visione e flessibilità, per costruire interventi realmente coerenti con obiettivi, persone e contesti
+ 1415  256 [16px 400] STRUTTURA SOLIDA
+ 1415  540 [16px 400] FLESSIBILITÀ
+ 1415 1030 [16px 400] INTEGRAZIONE
+ 1473  227 [16px 400] un impianto metodologico chiaro e riconoscibile
+ 1473  482 [16px 400] ogni intervento si adatta al contesto e al bisogno
+ 1473  993 [16px 400] quando serve i diversi interventi dialogano tra loro
+ 1671  235 [24px 400] Ambiti di applicazione
+ 2006  226 [22px 400] PERSONE
+ 2005  582 [22px 400] TEAM
+ 2003  916 [22px 400] ORGANIZZAZIONI
+ 2051  226 [18px 400] Sviluppo, orientamento, coaching e decisioni
+ 2048  916 [18px 400] Scelte, modelli, cultura e direzione del cambiamento
+ 2336  222 [51px 400] Diversi ambiti
+ 2397  222 [51px 400] un'unica direzione
+ 2556  210 [16px 400] SCOPRI IL NOSTRO FRAMEWORK

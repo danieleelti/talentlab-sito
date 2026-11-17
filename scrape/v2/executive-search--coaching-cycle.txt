@@ -1,0 +1,41 @@
+   86 1133 [25px 700] MENU
+  253  293 [16px 400] DEVELOP
+  286  231 [50px 700] EXECUTIVE SEARCH
+  346  231 [50px 400] COACHING CYCLE
+  414  231 [21px 400] TRASFORMARE L'ESPERIENZA DI RECRUITING
+  439  231 [21px 400] IN COMPETENZA MANAGERIALE
+  521  232 [21px 400] Un percorso di coaching specialistico rivolto
+  559  232 [21px 400] ai manager coinvolti nel processo di Executive Search.
+  616  232 [21px 400] Preparazione, affiancamento sui casi reali e debrief
+  654  232 [21px 400] diventano occasioni strutturate di apprendimento,
+  691  232 [21px 400] per sviluppare competenze che il manager
+  729  232 [21px 400] possa progressivamente utilizzare in autonomia
+ 1001  222 [18px 400] IL NOSTRO PROCESSO
+ 1088  328 [20px 400] ANALISI
+ 1085  988 [20px 400] DEBRIEF
+ 1162  249 [18px 400] Analisi del contesto, obiettivi e casi da sviluppare
+ 1154  905 [18px 400] Analisi condivisa dell'esperienza, insight e aree di miglioramento
+ 1164  564 [18px 400] Affiancamento su colloqui reali e lavoro diretto sul campo
+ 1319  644 [20px 400] SVILUPPO E CONSOLIDAMENTO
+ 1336 1054 [31px 400] Dall'esperienza
+ 1379 1070 [31px 400] delle persone
+ 1420  553 [18px 400] Sviluppo e consolidamento delle competenze e maggiore autonomia nel processo
+ 1423 1079 [31px 400] alla crescita
+ 1466 1001 [31px 400] delle organizzazioni
+ 1579  247 [18px 400] GLI STRUMENTI DEL SISTEMA
+ 1772  282 [16px 400] EXECUTIVE SEARCH
+ 1772  612 [18px 400] AFFIANCAMENTO AL COLLOQUIO
+ 1772  973 [18px 400] EXECUTIVE SEARCH ADVISOR
+ 1791  291 [16px 400] COACHING CYCLE
+ 1835  265 [16px 400] Preparazione e debrief delle situazioni reali di Executive Search
+ 1835  626 [16px 400] Il coach affianca il manager durante colloqui reali, in presenza o online
+ 1835  922 [16px 400] Sparring one to one nei momenti più delicati del processo, con metodo e sguardo consulenziale
+ 2123  869 [16px 400] TALENT UNITS
+ 2164  402 [16px 400] Sessione dedicata al candidato per accompagnare consapevolmente
+ 2169  818 [16px 400] Il modello flessibile attraverso cui questi strumenti possono essere attivati e combinati secondo il bisogno
+ 2222  436 [16px 400] scelta e cambiamento
+ 2357  232 [41px 700] EXECUTIVE SEARCH
+ 2406  232 [41px 400] COACHING CYCLE
+ 2496  232 [18px 400] Supportiamo i manager nel costruire
+ 2530  232 [18px 400] una competenza solida nei processi di Executive Search
+ 2564  232 [18px 400] per generare valore duraturo nelle proprie organizzazioni

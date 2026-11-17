@@ -1,0 +1,30 @@
+   86 1133 [25px 700] MENU
+  252  231 [50px 400] Talent Strategy
+  312  231 [50px 400] Human Impact
+  410  231 [20px 400] Siamo una Boutique consultancy specializzata nello sviluppo del talento. Uniamo esperienza, rigore metodologico e una profonda attenzione alle persone per supportare le aziende nel costruire organizzazioni più forti, consapevoli e orientate al futuro.
+  711  221 [18px 400] IL PUNTO DI PARTENZA
+  762  219 [37px 700] L'esperienza diventa metodo
+  859  229 [22px 400] Le organizzazioni non hanno semplicemente bisogno di trovare persone competenti, hanno bisogno di riconoscere il potenziale, attrarlo, farlo evolvere e trasformarlo in valore
+ 1101  229 [37px 700] Il talento genera valore
+ 1142  229 [37px 400] quando il potenziale trova una direzione
+ 1264  402 [48px 400] Un sistema completo per un impatto
+ 1317  627 [48px 400] ad alto valore
+ 1419  361 [22px 400] Un sistema integrato di soluzioni per attrarre, sviluppare e connettere le persone, generando un impatto misurabile e duraturo
+ 1596  337 [24px 400] Choose
+ 1596  692 [24px 400] Develop
+ 1596 1017 [24px 400] Connect
+ 1623  299 [17px 400] Strategy Recruiting
+ 1623  640 [17px 400] Leadership & Coaching
+ 1623  983 [17px 400] Team Development
+ 1681  262 [19px 400] Attraiamo e selezioniamo i migliori talenti, in linea con i valori e gli obiettivi della tua organizzazione
+ 1705  619 [19px 400] Supportiamo la crescita di leader e team, attraverso percorsi di sviluppo su misura e strumenti evidence-based
+ 1808  403 [15px 400] Scopri di più
+ 1806 1079 [15px 400] Scopri di più
+ 2043  446 [50px 400] Riconoscere il potenziale
+ 2118  666 [50px 400] è l'inizio
+ 2193  478 [50px 400] Trasformarlo in valore
+ 2268  578 [50px 400] è la vera sfida
+ 2720  295 [24px 400] Per richiedere informazioni sui nostri servizi o per essere ricontattato dal nostro
+ 2781  647 [24px 700] Team di esperti
+ 2856  631 [15px 400] Parla con il nostro Team
+ 2977  649 [15px 400] Scarica la nostra Brochure

@@ -1,0 +1,123 @@
+<a class="skip" href="#main">Salta al contenuto</a>
+<div class="progress" aria-hidden="true"></div>
+<!-- Navigazione: gruppi = voci del menu del sito (docs/piano-pagine-nuove.md). Etichette SOLO del menu del sito.
+     Macro di build.mjs: cur:chiave → aria-current sulla pagina attiva; group:chiavi → data-current sul gruppo che la contiene. -->
+<header class="site-header">
+  <div class="header__inner">
+    <a class="brand" href="{{R}}" aria-label="Talent Lab OS, torna alla home"><img src="{{R}}assets/img/logo-96.webp" width="187" height="96" alt="Talent Lab OS — Strategic System"></a>
+    <nav class="nav" aria-label="Principale">
+      <ul class="nav__list">
+        <li class="nav__item" {{group:strategic-system,il-nostro-approccio,campi-di-azione}}>
+          <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-g1">Strategic System [[icon caret-down]]</button>
+          <div class="nav__panel" id="nav-g1">
+            <ul>
+              <li><a href="{{R}}strategic-system/" {{cur:strategic-system}}>Strategic System</a></li>
+              <li><a href="{{R}}il-nostro-approccio/" {{cur:il-nostro-approccio}}>Il nostro approccio</a></li>
+              <li><a href="{{R}}campi-di-azione/" {{cur:campi-di-azione}}>Campi di azione</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav__item" {{group:executive-search,executive-search-coaching-cycle}}>
+          <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-g2">Executive Search [[icon caret-down]]</button>
+          <div class="nav__panel" id="nav-g2">
+            <ul>
+              <li><a href="{{R}}executive-search/" {{cur:executive-search}}>Executive Financial Search</a></li>
+              <li><a href="{{R}}executive-search-coaching-cycle/" {{cur:executive-search-coaching-cycle}}>Coaching Cycle</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav__item" {{group:la-divisione-angel,divisione-angel-il-percorso,career-transition,coaching-4-change}}>
+          <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-g3">Divisione Angel [[icon caret-down]]</button>
+          <div class="nav__panel" id="nav-g3">
+            <ul>
+              <li><a href="{{R}}la-divisione-angel/" {{cur:la-divisione-angel}}>Divisione Angel</a></li>
+              <li><a href="{{R}}divisione-angel-il-percorso/" {{cur:divisione-angel-il-percorso}}>Divisione Angel: il percorso</a></li>
+              <li><a href="{{R}}career-transition/" {{cur:career-transition}}>Career Transition</a></li>
+              <li><a href="{{R}}coaching-4-change/" {{cur:coaching-4-change}}>C4C: Coaching for Change</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav__item" {{group:executive-coaching,executive-coaching-il-metodo}}>
+          <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-g4">Executive Coaching [[icon caret-down]]</button>
+          <div class="nav__panel" id="nav-g4">
+            <ul>
+              <li><a href="{{R}}executive-coaching/" {{cur:executive-coaching}}>Executive Coaching</a></li>
+              <li><a href="{{R}}executive-coaching-il-metodo/" {{cur:executive-coaching-il-metodo}}>Il metodo</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav__item" {{group:team-coaching,team-coaching-team-building}}>
+          <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-g5">Team Coaching [[icon caret-down]]</button>
+          <div class="nav__panel" id="nav-g5">
+            <ul>
+              <li><a href="{{R}}team-coaching/" {{cur:team-coaching}}>Team Coaching</a></li>
+              <li><a href="{{R}}team-coaching-team-building/" {{cur:team-coaching-team-building}}>Team Coaching + Team Building</a></li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav__item"><a class="nav__link" href="{{R}}contatti/" {{cur:contatti}}>Contatti</a></li>
+      </ul>
+    </nav>
+    <a class="btn btn--primary header__cta" href="{{scrivi}}" data-magnetic>Parla con il nostro Team</a>
+    <button class="menu-btn" type="button" aria-controls="menu" aria-expanded="false"><span>Menu</span><span class="menu-btn__lines" aria-hidden="true"><span></span><span></span></span></button>
+  </div>
+</header>
+<div class="menu" id="menu" role="dialog" aria-modal="true" aria-label="Menu" aria-hidden="true" inert>
+  <div class="menu__top">
+    <a class="menu__brand" href="{{R}}" aria-label="Talent Lab OS, torna alla home"><img src="{{R}}assets/img/logo-96.webp" width="187" height="96" alt=""></a>
+    <button class="menu__close" type="button">Chiudi [[icon x]]</button>
+  </div>
+  <nav class="menu__nav" aria-label="Menu principale" data-lenis-prevent>
+    <div class="menu__groups">
+      <div class="menu__group" style="--i:0">
+        <p class="menu__label" id="m-g1">Strategic System</p>
+        <ul aria-labelledby="m-g1">
+          <li><a href="{{R}}strategic-system/" {{cur:strategic-system}}>Strategic System</a></li>
+          <li><a href="{{R}}il-nostro-approccio/" {{cur:il-nostro-approccio}}>Il nostro approccio</a></li>
+          <li><a href="{{R}}campi-di-azione/" {{cur:campi-di-azione}}>Campi di azione</a></li>
+        </ul>
+      </div>
+      <div class="menu__group" style="--i:1">
+        <p class="menu__label" id="m-g2">Executive Search</p>
+        <ul aria-labelledby="m-g2">
+          <li><a href="{{R}}executive-search/" {{cur:executive-search}}>Executive Financial Search</a></li>
+          <li><a href="{{R}}executive-search-coaching-cycle/" {{cur:executive-search-coaching-cycle}}>Coaching Cycle</a></li>
+        </ul>
+      </div>
+      <div class="menu__group" style="--i:2">
+        <p class="menu__label" id="m-g3">Divisione Angel</p>
+        <ul aria-labelledby="m-g3">
+          <li><a href="{{R}}la-divisione-angel/" {{cur:la-divisione-angel}}>Divisione Angel</a></li>
+          <li><a href="{{R}}divisione-angel-il-percorso/" {{cur:divisione-angel-il-percorso}}>Divisione Angel: il percorso</a></li>
+          <li><a href="{{R}}career-transition/" {{cur:career-transition}}>Career Transition</a></li>
+          <li><a href="{{R}}coaching-4-change/" {{cur:coaching-4-change}}>C4C: Coaching for Change</a></li>
+        </ul>
+      </div>
+      <div class="menu__group" style="--i:3">
+        <p class="menu__label" id="m-g4">Executive Coaching</p>
+        <ul aria-labelledby="m-g4">
+          <li><a href="{{R}}executive-coaching/" {{cur:executive-coaching}}>Executive Coaching</a></li>
+          <li><a href="{{R}}executive-coaching-il-metodo/" {{cur:executive-coaching-il-metodo}}>Il metodo</a></li>
+        </ul>
+      </div>
+      <div class="menu__group" style="--i:4">
+        <p class="menu__label" id="m-g5">Team Coaching</p>
+        <ul aria-labelledby="m-g5">
+          <li><a href="{{R}}team-coaching/" {{cur:team-coaching}}>Team Coaching</a></li>
+          <li><a href="{{R}}team-coaching-team-building/" {{cur:team-coaching-team-building}}>Team Coaching + Team Building</a></li>
+        </ul>
+      </div>
+      <div class="menu__group menu__group--plain" style="--i:5">
+        <ul>
+          <li><a href="{{R}}learning-development/" {{cur:learning-development}}>Formazione &amp; Sviluppo</a></li>
+          <li><a href="{{R}}contatti/" {{cur:contatti}}>Contatti</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="menu__foot">
+    <a class="btn btn--primary" href="https://wa.me/393806338747" target="_blank" rel="noopener">[[icon whatsapp-logo]] Chatta con noi</a>
+    <a class="btn btn--ghost" href="mailto:info@talentlabconsulting.it">[[icon envelope-simple]] Scrivici</a>
+  </div>
+  <div class="menu__compass" aria-hidden="true">[[compass]]</div>
+</div>

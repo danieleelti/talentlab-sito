@@ -1,0 +1,326 @@
+{
+ "url": "https://talentlabconsulting.it/il-nostro-approccio",
+ "status": 200,
+ "title": "Il nostro approccio | Talent Lab OS - talentlabconsulting",
+ "description": "Scopri come Talent Lab OS unisce esperienza, metodo e attenzione alle persone nei progetti di ricerca, coaching e sviluppo del talento.",
+ "height": 2667,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_dd37dc5650c440271893be1e68f0bc01ddaa2f9c.png/v1/x_0,y_0,w_85,h_83/immagine%20chatgpt%2029%20set%202026%2C%2017_29_19-1.webp",
+   "alt": "",
+   "y": 1348,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_583932c49b0b9602a55aee6315179907da463c84.png/v1/x_0,y_0,w_85,h_83/immagine%20chatgpt%2029%20set%202026%2C%2017_29_20-2.webp",
+   "alt": "",
+   "y": 1348,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_bfb180c86e6b5ee0a6ee65cce2198b793f013699.png/v1/x_0,y_0,w_85,h_83/immagine%20chatgpt%2029%20set%202026%2C%2017_29_22-3.webp",
+   "alt": "",
+   "y": 1348,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_7f079131e8082108322606b964bfc1bdf0a6c8fb.png/v1/x_0,y_0,w_85,h_83/immagine%20chatgpt%2029%20set%202026%2C%2017_29_23-4.webp",
+   "alt": "",
+   "y": 1348,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_7a04c897860ad95425866ce6085a51eb9071d333.png/v1/s/immagine%20chatgpt%2029%20set%202026,%2016_54_44-2.webp",
+   "alt": "immagine chatgpt 29 set 2026, 16_54_44-2",
+   "y": 1672,
+   "shown": [
+    1657,
+    933
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_514093fdfeba398d035ddfd3ecd22fb44c017edd.png/v1/w_1440,h_0,dpr_2/immagine%20chatgpt%2029%20set%202026%2c%2016_54_43-1.webp",
+   "y": 237,
+   "w": 1440,
+   "h": 802
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 269,
+   "x": 234,
+   "t": "Il Talento",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 324,
+   "x": 234,
+   "t": "non è punto di arrivo",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 379,
+   "x": 234,
+   "t": "è il punto",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 434,
+   "x": 234,
+   "t": "da cui partire",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 555,
+   "x": 234,
+   "t": "Le organizzazzioni non hanno semplicemente bisogno",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 593,
+   "x": 234,
+   "t": "di trovare persone competenti",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 661,
+   "x": 234,
+   "t": "Hanno bisogno di riconoscere il potenziale",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 699,
+   "x": 234,
+   "t": "attrarlo, farlo evolvere, trasformarlo in valore",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 768,
+   "x": 234,
+   "t": "Perchè il talento da solo non basta",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 806,
+   "x": 234,
+   "t": "E' ciò che un organizzazione riesce a fare in modo sinergico",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 844,
+   "x": 234,
+   "t": "a generare la differenza",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1059,
+   "x": 236,
+   "t": "IL NOSTRO APPROCCIO",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1116,
+   "x": 238,
+   "t": "Dall'identificazione",
+   "fs": "49px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1141,
+   "x": 790,
+   "t": "Accompagniamo persone, team e organizzazioni in un percorso che trasforma il potenziale in valore attraverso un approccio integrato di consulenza, executive search, coaching e formazione",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1170,
+   "x": 238,
+   "t": "allo sviluppo",
+   "fs": "49px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1241,
+   "x": 238,
+   "t": "Un percorso integrato",
+   "fs": "49px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1452,
+   "x": 543,
+   "t": "ORIENTARE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1452,
+   "x": 797,
+   "t": "SVILUPPARE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1452,
+   "x": 1014,
+   "t": "GENERARE VALORE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1512,
+   "x": 479,
+   "t": "Definire la direzione",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1510,
+   "x": 754,
+   "t": "Costruire competenze e consapevolezza",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1512,
+   "x": 977,
+   "t": "Trasformare il potenziale in risultati concreti",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1531,
+   "x": 479,
+   "t": "più adatta",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1736,
+   "x": 596,
+   "t": "LA NOSTRA CONVINZIONE",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1841,
+   "x": 583,
+   "t": "Il Talento",
+   "fs": "56px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1919,
+   "x": 548,
+   "t": "genera valore",
+   "fs": "56px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1998,
+   "x": 475,
+   "t": "quando il potenziale",
+   "fs": "56px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2076,
+   "x": 486,
+   "t": "trova una direzione",
+   "fs": "56px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  }
+ ]
+}

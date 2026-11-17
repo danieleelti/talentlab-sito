@@ -1,0 +1,99 @@
+{
+ "url": "https://talentlabconsulting.it/learning-development",
+ "status": 200,
+ "title": "learning-development - talentlabconsulting",
+ "description": "learning-development",
+ "height": 1122,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_33f7caab353adf00ec640bb16bf0ba3d82133a93.png/v1/x_0,y_0,w_994,h_588/team-development-formazione.webp",
+   "alt": "",
+   "y": 255,
+   "shown": [
+    994,
+    588
+   ]
+  }
+ ],
+ "bgs": [],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 872,
+   "x": 610,
+   "t": "info@talentlabconsulting.it",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Muli"
+  },
+  {
+   "y": 912,
+   "x": 621,
+   "t": "Marchio di Proprietà di OCC Consulting Srl",
+   "fs": "10px",
+   "fw": "400",
+   "ff": "Muli"
+  },
+  {
+   "y": 944,
+   "x": 674,
+   "t": "P.iva: 02180480689",
+   "fs": "10px",
+   "fw": "400",
+   "ff": "Muli"
+  },
+  {
+   "y": 976,
+   "x": 678,
+   "t": "CF: 02180480689",
+   "fs": "10px",
+   "fw": "400",
+   "ff": "Muli"
+  },
+  {
+   "y": 1013,
+   "x": 642,
+   "t": "Informativa sui Cookie",
+   "fs": "15px",
+   "fw": "400",
+   "ff": "Muli"
+  }
+ ]
+}

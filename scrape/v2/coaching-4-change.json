@@ -1,0 +1,346 @@
+{
+ "url": "https://talentlabconsulting.it/coaching-4-change",
+ "status": 200,
+ "title": "Coaching 4 Change | Talent Lab OS - talentlabconsulting",
+ "description": "Scopri Coaching 4 Change, il percorso di Talent Lab OS per accompagnare persone e organizzazioni nelle fasi di cambiamento.",
+ "height": 3094,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_17e1181aa90d9436e57807528a2ee344c272f6d8.png/v1/s/verso%20l%C3%A2%C2%80%C2%99orizzonte%20dorato.webp",
+   "alt": "verso lâorizzonte dorato",
+   "y": 2099,
+   "shown": [
+    2333,
+    933
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_7fc1883877f8a6d655c15a29a2bb6e3e1f58d2a0.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026%2C%2010_48_35-3.webp",
+   "alt": "",
+   "y": 1060,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_84be77caed112e36a25e864b1a0d8e4bae803a0a.png/v1/x_0,y_0,w_66,h_66/immagine%20chatgpt%2013%20ott%202026,%2010_48_43-8.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_43-8",
+   "y": 1053,
+   "shown": [
+    66,
+    66
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_54cd67a3f719861dd725ea18ce7ff4dd5ff138fc.png/v1/x_0,y_0,w_64,h_62/immagine%20chatgpt%2013%20ott%202026,%2010_48_41-7.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_41-7",
+   "y": 1301,
+   "shown": [
+    64,
+    62
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_e0c078c6bdd390cfef4226a782951feb3d6ac9f0.png/v1/x_0,y_0,w_60,h_64/immagine%20chatgpt%2013%20ott%202026,%2010_48_37-4.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_37-4",
+   "y": 1303,
+   "shown": [
+    60,
+    64
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_bda69fbe976565de9ed712fd7f00f7cbd56c4c42.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026%2C%2010_48_33-2.webp",
+   "alt": "",
+   "y": 1059,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_bfb180c86e6b5ee0a6ee65cce2198b793f013699.png/v1/x_0,y_0,w_60,h_64/immagine%20chatgpt%2029%20set%202026,%2017_29_22-3.webp",
+   "alt": "immagine chatgpt 29 set 2026, 17_29_22-3",
+   "y": 1682,
+   "shown": [
+    60,
+    64
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_99f662fc0cb0944e3a3e368f264c7c5dc1e76587.png/v1/x_0,y_0,w_64,h_62/immagine%20chatgpt%2022%20ott%202026,%2011_43_04-5.webp",
+   "alt": "immagine chatgpt 22 ott 2026, 11_43_04-5",
+   "y": 1891,
+   "shown": [
+    64,
+    62
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_2c41e45b5b2e92d98190dacd06d2085743aea639.png/v1/x_0,y_0,w_60,h_64/spunta%20in%20platino%20su%20disco%20navy.webp",
+   "alt": "spunta in platino su disco navy",
+   "y": 1888,
+   "shown": [
+    60,
+    64
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_92b2965e3d647501f4b48cdffdf9761d111e393d.png/v1/w_1440,h_0,dpr_2/professionista%20pensieroso%20al%20tramonto.webp",
+   "y": 231,
+   "w": 1440,
+   "h": 749
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 246,
+   "x": 1111,
+   "t": "C4C",
+   "fs": "33px",
+   "fw": "700",
+   "ff": "Poppins"
+  },
+  {
+   "y": 295,
+   "x": 717,
+   "t": "COACHING FOR CHANGE",
+   "fs": "42px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 345,
+   "x": 771,
+   "t": "Cambiare non significa solo scegliere",
+   "fs": "31px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 383,
+   "x": 860,
+   "t": "Significa prepararsi alla scelta",
+   "fs": "31px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 453,
+   "x": 591,
+   "t": "Un percorso dedicato a Gestori della Clientela che operano in Banca e stanno valutando un cambiamento professionale verso un altro Istituto, mantenendo il ruolo o evolvendolo.",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 623,
+   "x": 594,
+   "t": "Ti affianchiamo con metodo ed esperienza per affrontare il cambiamento in modo consapevole, valorizzando il tuo profilo, la tua esperienza e il tuo potenziale di mercato.",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 996,
+   "x": 230,
+   "t": "LE FASI DEL PERCORSO",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1072,
+   "x": 318,
+   "t": "PREPARAZIONE",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1077,
+   "x": 977,
+   "t": "PROFILO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1148,
+   "x": 904,
+   "t": "Revisione del CV, soft skill e competenze di ruolo",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1161,
+   "x": 230,
+   "t": "Preparazione ai colloqui con simulazioni e feedback mirato",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1158,
+   "x": 562,
+   "t": "Analisi post colloquio, lettura degli esiti e definizione dei prossimi passi",
+   "fs": "19px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1311,
+   "x": 476,
+   "t": "MERCATO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1320,
+   "x": 888,
+   "t": "CLIENTELA",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1395,
+   "x": 404,
+   "t": "Analisi del potenziale di mercato attuale e trasferibile",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1389,
+   "x": 817,
+   "t": "Strategia e approccio verso la clientela attuale e potenziale",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1701,
+   "x": 457,
+   "t": "METODO ED ESPERIENZA NEL SETTORE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1694,
+   "x": 889,
+   "t": "APPROCCIO PERSONALIZZATO",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1773,
+   "x": 382,
+   "t": "Un percorso strutturato basato su esperienza reale nel mondo del Banking & Finance",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1765,
+   "x": 817,
+   "t": "Ogni percorso è unico e costruito sulla tua storia, i tuoi obiettivi e il tuo contesto",
+   "fs": "19px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1901,
+   "x": 446,
+   "t": "VISIONE REALISTICA",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1900,
+   "x": 888,
+   "t": "SUPPORTO CONTINUATIVO",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1995,
+   "x": 374,
+   "t": "Analisi oggettiva delle potenzialità di mercato e delle prospettive di crescita",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1995,
+   "x": 822,
+   "t": "Al tuo fianco in tutte le fasi, fino alla scelta finale e oltre",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 2118,
+   "x": 839,
+   "t": "Nuove strade",
+   "fs": "58px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2188,
+   "x": 839,
+   "t": "nuove prospettive",
+   "fs": "58px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  }
+ ]
+}

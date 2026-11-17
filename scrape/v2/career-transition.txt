@@ -1,0 +1,22 @@
+   86 1133 [25px 700] MENU
+  248  275 [18px 400] CAREER TRANSITION
+  285  231 [42px 400] PRIMA DI SCEGLIERE L'AZIENDA
+  335  231 [29px 400] SCEGLI LA PROFESSIONE
+  689  226 [26px 400] Comprendere il ruolo, valutare le opportunità
+  736  226 [26px 400] e costruire una scelta consapevole
+ 1004  222 [20px 400] Un percorso dedicato a chi sta valutando, per la prima volta, l'ingresso nella consulenza finanziaria e vuole conoscere in modo chiaro e realistico la professione, le opportunità e le implicazioni, prima di scegliere l'azienda
+ 1188  323 [18px 400] PROFESSION & ECONOMICS
+ 1183  637 [18px 400] ROLE & ORGANIZATION
+ 1273  235 [17px 400] Sistemi di remunerazione, fiscalità, previdenza, indennità e aspetti economici della professione
+ 1265  562 [17px 400] Organizzazione del lavoro, modelli di servizio e caratteristiche del ruolo di Consulente Finanziario
+ 1264  909 [17px 400] Strategie e modalità di comunicazione alla clientela, con un approccio professionale e strutturato
+ 1427  321 [18px 400] SKILL & FIT
+ 1429  623 [18px 400] MARKET POTENTIAL
+ 1437  992 [16px 400] BUSINESS PLANNING
+ 1511  249 [17px 400] Analisi delle competenze personali e professionali
+ 1505  557 [17px 400] Analisi oggettiva del potenziale di mercato e delle opportunità di sviluppo sul territorio di riferimento
+ 1505  910 [17px 400] Costruzione del Business Plan personale con scenari realistici e sostenibili nel tempo
+ 1552  249 [17px 400] e valutazione dell'aderenza al ruolo
+ 1667  222 [58px 700] Prima di scegliere l'azienda
+ 1737  222 [58px 700] è importante comprendere
+ 1806  222 [58px 700] e scegliere la professione

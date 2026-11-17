@@ -1,0 +1,19 @@
+{
+  "name": "talentlab-sito",
+  "private": true,
+  "description": "Sito Talent Lab OS: sorgenti in src/, build statica in sito/ (versione A) e sito-b/ (versione B)",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "anteprima": "python3 -m http.server 3500 --bind 127.0.0.1 --directory sito",
+    "anteprima:b": "python3 -m http.server 3500 --bind 127.0.0.1 --directory sito-b",
+    "check": "node tools/check.mjs http://127.0.0.1:3500/ prove-out all",
+    "audit": "python3 -I tools/audit-testi.py",
+    "deploy": "bash tools/deploy.sh",
+    "deploy:b": "bash tools/deploy.sh --tema b"
+  },
+  "devDependencies": {
+    "gsap": "3.15.0",
+    "lenis": "1.3.27",
+    "playwright": "1.63.0"
+  }
+}

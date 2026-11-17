@@ -1,0 +1,230 @@
+{
+ "url": "https://talentlabconsulting.it/executive-coaching-il-metodo",
+ "status": 200,
+ "title": "Home Page - talentlabconsulting",
+ "description": "offriamo servizi di executive financial search, head hunting, formazione manageriale, business coaching, progettazione road map di reclutamento",
+ "height": 2562,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_7fc1883877f8a6d655c15a29a2bb6e3e1f58d2a0.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026%2C%2010_48_35-3.webp",
+   "alt": "",
+   "y": 1376,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_54cd67a3f719861dd725ea18ce7ff4dd5ff138fc.png/v1/x_0,y_0,w_64,h_62/immagine%20chatgpt%2013%20ott%202026,%2010_48_41-7.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_41-7",
+   "y": 1652,
+   "shown": [
+    64,
+    62
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_bda69fbe976565de9ed712fd7f00f7cbd56c4c42.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026%2C%2010_48_33-2.webp",
+   "alt": "",
+   "y": 1376,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_faca8b83b65c5d384075101aca6f537f87c5bd28.png/v1/x_0,y_0,w_60,h_64/immagine%20chatgpt%2013%20ott%202026,%2010_48_38-5.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_38-5",
+   "y": 1658,
+   "shown": [
+    60,
+    64
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_4cb712ba002416b0b84b41f433c80836786c65d8.png/v1/x_0,y_55,w_976,h_411/immagine%20chatgpt%2030%20ott%202026%2C%2012_14_05-10.webp",
+   "alt": "",
+   "y": 2025,
+   "shown": [
+    976,
+    411
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_d917a48c12a3631f3f169fb92f741f32df691916.png/v1/w_1440,h_0,dpr_2/atelier%20di%20lusso%20e%20talent%20lab%20os.webp",
+   "y": 231,
+   "w": 1440,
+   "h": 753
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 996,
+   "x": 322,
+   "t": "IL METODO",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1038,
+   "x": 231,
+   "t": "EXECUTIVE COACHING",
+   "fs": "42px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1097,
+   "x": 236,
+   "t": "UN PERCORSO SU MISURA PER UN IMPATTO REALE",
+   "fs": "36px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1157,
+   "x": 236,
+   "t": "Un metodo strutturato, flessibile e concreto per trasformare consapevolezza, potenziale e intenzioni in comportamenti e risultati nel contesto reale",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1294,
+   "x": 234,
+   "t": "LE FASI DEL PERCORSO",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1388,
+   "x": 318,
+   "t": "MAPPING",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1387,
+   "x": 631,
+   "t": "DEEP SCAN",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1388,
+   "x": 982,
+   "t": "FOCUS",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1456,
+   "x": 250,
+   "t": "Identità manageriale, autorevolezza e capacità di guida. Una leadership più consapevole, pragmatica e sostenibile",
+   "fs": "19px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1456,
+   "x": 557,
+   "t": "Gestione delle complessità, responsabilità e qualità delle decisioni. Dalla riflessione all'azione, con maggiore lucidità e sicurezza",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1454,
+   "x": 909,
+   "t": "Relazioni, comunicazione, feedback e sviluppo delle persone. Team più motivati, allineati e orientati al risultato",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1662,
+   "x": 321,
+   "t": "ACTION",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1662,
+   "x": 662,
+   "t": "EVOLUTION",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1746,
+   "x": 249,
+   "t": "Priorità, execution e trasformazione delle intenzioni in azione. Risultati più concreti e un impatto duraturo nel tempo",
+   "fs": "17px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1746,
+   "x": 587,
+   "t": "Monitoraggio dei progressi, consolidamento delle nuove abitudini e misurazione dell'impatto nel tempo. Nuove prospettive di crescita.",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1925,
+   "x": 234,
+   "t": "I NOSTRI STRUMENTI PROPRIETARI",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  }
+ ]
+}

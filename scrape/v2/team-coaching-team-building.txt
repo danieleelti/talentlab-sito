@@ -1,0 +1,29 @@
+   86 1133 [25px 700] MENU
+  179  463 [16px 400] Home
+  311  222 [21px 400] CONNECT
+  401  222 [46px 400] Team Coaching + Team Building
+  473  222 [28px 400] L'esperienza attiva il team
+  507  222 [28px 400] Il coaching trasforma l'esperienza
+  541  222 [28px 400] in consapevolezza e cambiamento
+  613  222 [23px 400] Integrare Team Building e Team Coaching
+  640  222 [23px 400] significa trasformare l'esperienza in insight concreti e duraturi, accelerando l'evoluzione del Team
+  908  224 [22px 400] IL NOSTRO MODELLO DI INTEGRAZIONE
+ 1018  318 [18px 400] EXPERIENCE
+ 1017  631 [18px 400] OBSERVE
+ 1018  982 [18px 400] DEBRIEF
+ 1086  250 [19px 400] Il Team vive un'esperienza concreta e sfidante
+ 1086  557 [18px 400] Emergono comportamenti, dinamiche e opportunità
+ 1084  909 [18px 400] L'esperienza vissuta viene riletta attraverso il coaching
+ 1292  321 [18px 400] INSIGHT
+ 1307  652 [16px 400] TRANSFER
+ 1303  967 [16px 400] CHANGE
+ 1376  249 [17px 400] Il Team riconosce pattern, risorse e aree di evoluzione
+ 1376  587 [18px 400] Gli insight vengono riportati nel contesto professionale reale
+ 1374  887 [16px 400] I nuovi comportamenti diventano pratica di lavoro
+ 1653  229 [21px 400] TEAM BUILDING STRATEGIC PARTNER
+ 1729  507 [18px 400] Per la progettazione e realizzazione delle attività di Team Building, Talent Lab Consulting
+ 1772  507 [18px 400] opera in partnership con Teambuilding.it, partner strategico nella creazione e conduzione di esperienze di Team Building ad alto valore.
+ 1871  238 [16px 700] PER INFORMAZIONI SULLE ATTIVITÀ DI TEAM BUILDING
+ 1892  238 [16px 400] Visita la sezione FORMAZIONE di teambuilding.it,
+ 1887  889 [12px 400] VAI ALLA SEZIONE FORMAZIONE
+ 1911  238 [16px 400] nella richiesta di informazioni indica “Talent Lab OS” come fonte del contatto

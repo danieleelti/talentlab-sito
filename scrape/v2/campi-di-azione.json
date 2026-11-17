@@ -1,0 +1,369 @@
+{
+ "url": "https://talentlabconsulting.it/campi-di-azione",
+ "status": 200,
+ "title": "Servizi per lo sviluppo del talento | Talent Lab OS - talentlabconsulting",
+ "description": "Esplora i campi di azione di Talent Lab OS per aziende, leader e team, dalla ricerca di profili executive ai percorsi di coaching e sviluppo.",
+ "height": 3017,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_ef9ac4de2f9f2366612608526a73c90d174f5fd5.png/v1/x_0,y_0,w_511,h_551/immagine%20chatgpt%2012%20ott%202026%2C%2011_50_49-3.webp",
+   "alt": "",
+   "y": 1567,
+   "shown": [
+    511,
+    551
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_e7fc3c74bd185216bc6c2fc0375c7cf8ff0163a7.png/v1/x_0,y_0,w_495,h_530/immagine%20chatgpt%2012%20ott%202026%2C%2011_50_47-1.webp",
+   "alt": "",
+   "y": 1037,
+   "shown": [
+    495,
+    530
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8006135ecf97a2fc8af0d595e47500e7edde073a.png/v1/x_0,y_0,w_511,h_530/immagine%20chatgpt%2012%20ott%202026%2C%2011_49_15.webp",
+   "alt": "",
+   "y": 1037,
+   "shown": [
+    511,
+    530
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_e5d4cbe91734266e81d56ad765ff7bad1bc6cbdc.png/v1/x_0,y_0,w_85,h_83/03_icona_flessibilita_premium_hd.webp",
+   "alt": "",
+   "y": 2450,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_9029e701d501de1c4429678af603ac0ce425f08d.png/v1/x_0,y_0,w_85,h_83/03_icona_autonomia_premium_hd.webp",
+   "alt": "",
+   "y": 2450,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_35e17d0cee8a6391cc553c590834e95fa9b0c056.png/v1/x_0,y_0,w_85,h_83/03_icona_struttura_solida_premium_hd.webp",
+   "alt": "",
+   "y": 2450,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_97de1baa917f0a1e67e34982eb18d07cee1c55fb.png/v1/x_0,y_0,w_495,h_551/immagine%20chatgpt%2012%20ott%202026%2C%2011_50_51-4.webp",
+   "alt": "",
+   "y": 1566,
+   "shown": [
+    495,
+    551
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_30d1b935270c8ea2b8104259663213967033b6f8.png/v1/x_0,y_0,w_85,h_83/03_icona_integrazione_premium_hd.webp",
+   "alt": "",
+   "y": 2450,
+   "shown": [
+    85,
+    83
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_602ae3ccae48cfdcb7a8e4a2fb6e8102fa01df7c.png/v1/w_1440,h_0,dpr_2/crocevia%20dorato%20tra%20le%20montagne.webp",
+   "y": 237,
+   "w": 1440,
+   "h": 758
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/executive-search",
+   "text": ">"
+  },
+  {
+   "href": "https://talentlabconsulting.it/executive-coaching",
+   "text": ">"
+  },
+  {
+   "href": "https://talentlabconsulting.it/team-coaching-team-building",
+   "text": ">"
+  },
+  {
+   "href": "https://talentlabconsulting.it/learning-development",
+   "text": ">"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 267,
+   "x": 236,
+   "t": "CAMPI DI AZIONE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 309,
+   "x": 236,
+   "t": "UN FRAMEWORK",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 370,
+   "x": 236,
+   "t": "DIVERSI CAMPI DI AZIONE",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 478,
+   "x": 236,
+   "t": "Il nostro framework proprietario integra metodologie, strumenti e competenze",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 558,
+   "x": 236,
+   "t": "per generare valore nelle aree chiave",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 598,
+   "x": 236,
+   "t": "del talento, delle persone e delle organizzazioni",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 852,
+   "x": 1059,
+   "t": "Stessi principi",
+   "fs": "33px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 898,
+   "x": 1045,
+   "t": "contesti diversi",
+   "fs": "33px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 944,
+   "x": 1027,
+   "t": "risultati concreti",
+   "fs": "33px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1527,
+   "x": 253,
+   "t": ">",
+   "fs": "34px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1530,
+   "x": 753,
+   "t": ">",
+   "fs": "34px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2065,
+   "x": 243,
+   "t": ">",
+   "fs": "34px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2066,
+   "x": 758,
+   "t": ">",
+   "fs": "34px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2163,
+   "x": 232,
+   "t": "Un framework",
+   "fs": "49px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2160,
+   "x": 695,
+   "t": "Il nostro Strategic System è un framework proprietario che unisce metodo, visione e concretezza, capace di adattarsi a contesti e bisogni specifici di ogni realtà",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2222,
+   "x": 232,
+   "t": "integrato e flessibile",
+   "fs": "49px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2285,
+   "x": 695,
+   "t": "Ogni ambito può vivere oppure, quando genera maggior valore, con altri ambiti in un sistema integrato",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2285,
+   "x": 905,
+   "t": "autonomamente",
+   "fs": "16px",
+   "fw": "700",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2316,
+   "x": 906,
+   "t": "dialogare",
+   "fs": "16px",
+   "fw": "700",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2554,
+   "x": 230,
+   "t": "METODOLOGIE INTEGRATE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 2550,
+   "x": 736,
+   "t": "COMPETENZE MULTIDISCIPLINARI",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 2554,
+   "x": 1007,
+   "t": "VALORE SOSTENIBILE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 2612,
+   "x": 227,
+   "t": "un impianto metodologico chiaro e riconoscibile",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2606,
+   "x": 752,
+   "t": "ogni ambito può essere autonomo dagli altri",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2614,
+   "x": 977,
+   "t": "soluzioni concrete per persone, team",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 2652,
+   "x": 977,
+   "t": "e organizzazioni",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 2775,
+   "x": 222,
+   "t": "Diversi ambiti",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2836,
+   "x": 222,
+   "t": "un'unica direzione",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+   86 1133 [25px 700] MENU
+  242  231 [50px 400] Talent Strategy
+  302  231 [50px 400] Human Impact
+  400  231 [20px 400] Siamo una Boutique consultancy specializzata nello sviluppo del talento. Uniamo esperienza, rigore metodologico e una profonda attenzione alle persone per supportare le aziende nel costruire organizzazioni più forti, consapevoli e orientate al futuro.
+  710  221 [18px 400] IL PUNTO DI PARTENZA
+  761  219 [37px 700] L'esperienza diventa metodo
+  858  229 [22px 400] Le organizzazioni non hanno semplicemente bisogno di trovare persone competenti, hanno bisogno di riconoscere il potenziale, attrarlo, farlo evolvere e trasformarlo in valore
+ 1100  229 [37px 700] Il talento genera valore
+ 1141  229 [37px 400] quando il potenziale trova una direzione
+ 1263  402 [48px 400] Un sistema completo per un impatto
+ 1316  627 [48px 400] ad alto valore
+ 1418  361 [22px 400] Un sistema integrato di soluzioni per attrarre, sviluppare e connettere le persone, generando un impatto misurabile e duraturo
+ 1595  337 [24px 400] Choose
+ 1595  692 [24px 400] Develop
+ 1595 1017 [24px 400] Connect
+ 1622  299 [17px 400] Strategy Recruiting
+ 1622  640 [17px 400] Leadership & Coaching
+ 1622  983 [17px 400] Team Development
+ 1680  262 [19px 400] Attraiamo e selezioniamo i migliori talenti, in linea con i valori e gli obiettivi della tua organizzazione
+ 1704  619 [19px 400] Supportiamo la crescita di leader e team, attraverso percorsi di sviluppo su misura e strumenti evidence-based
+ 1807  403 [15px 400] Scopri di più
+ 1807  745 [15px 400] Scopri di più
+ 1805 1079 [15px 400] Scopri di più
+ 2042  446 [50px 400] Riconoscere il potenziale
+ 2117  666 [50px 400] è l'inizio
+ 2192  478 [50px 400] Trasformarlo in valore
+ 2267  578 [50px 400] è la vera sfida
+ 2897  295 [24px 400] Per richiedere informazioni sui nostri servizi o per essere ricontattato dal nostro
+ 2958  647 [24px 700] Team di esperti
+ 3033  631 [15px 400] Parla con il nostro Team
+ 3154  649 [15px 400] Scarica la nostra Brochure

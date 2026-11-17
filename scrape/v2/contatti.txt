@@ -1,0 +1,17 @@
+   86 1133 [25px 700] MENU
+  497  595 [23px 400] Chatta con noi ·
+  497  762 [23px 700] +39 380 633 8747
+  555  595 [23px 400] Segui la nostra pagina
+  555  837 [23px 700] Linkedin
+  609  598 [28px 700] info@talentlabconsulting.it
+  672  614 [16px 400] Scrivici
+  718  403 [16px 400] Nome
+  824  403 [16px 400] E-mail
+  930  403 [16px 400] Messaggio
+ 1108  431 [16px 500] Privacy Policy
+ 1190  700 [16px 600] Invia
+ 1285  610 [18px 400] info@talentlabconsulting.it
+ 1325  621 [10px 400] Marchio di Proprietà di OCC Consulting Srl
+ 1357  674 [10px 400] P.iva: 02180480689
+ 1389  678 [10px 400] CF: 02180480689
+ 1426  642 [15px 400] Informativa sui Cookie

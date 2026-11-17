@@ -1,0 +1,181 @@
+{
+ "url": "https://talentlabconsulting.it/team-coaching",
+ "status": 200,
+ "title": "Team Coaching per aziende | Talent Lab OS - talentlabconsulting",
+ "description": "Percorsi di team coaching per rafforzare obiettivi condivisi, fiducia, collaborazione e performance nei team aziendali.",
+ "height": 1581,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_84be77caed112e36a25e864b1a0d8e4bae803a0a.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026%2C%2010_48_43-8.webp",
+   "alt": "",
+   "y": 1064,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_e0c078c6bdd390cfef4226a782951feb3d6ac9f0.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026,%2010_48_37-4.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_37-4",
+   "y": 1060,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_30d1b935270c8ea2b8104259663213967033b6f8.png/v1/x_0,y_0,w_71,h_77/03_icona_integrazione_premium_hd.webp",
+   "alt": "03_icona_integrazione_premium_hd",
+   "y": 1057,
+   "shown": [
+    71,
+    77
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_0a2ec6a4adcbf6ae79bc35db82e8f668ac1fdb08.png/v1/x_0,y_0,w_64,h_62/immagine%20chatgpt%2013%20ott%202026,%2010_48_40-6.webp",
+   "alt": "immagine chatgpt 13 ott 2026, 10_48_40-6",
+   "y": 1315,
+   "shown": [
+    64,
+    62
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_386f3fb98011bb66fdeb95d6f48b4ce5bc473c3e.png/v1/w_1440,h_0,dpr_2/riunione%20aziendale%20al%20tavolo%20marmoreo.webp",
+   "y": 236,
+   "w": 1440,
+   "h": 728
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 252,
+   "x": 287,
+   "t": "CONNECT",
+   "fs": "24px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 326,
+   "x": 231,
+   "t": "Team Coaching",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 385,
+   "x": 231,
+   "t": "Team più consapevoli, risultati duraturi",
+   "fs": "31px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 491,
+   "x": 232,
+   "t": "Accompagniamo i Team in un percorso di crescita che unisce consapevolezza, relazioni, collaborazione e performance, per trasformare il potenziale individuale in risultati collettivi.",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 999,
+   "x": 222,
+   "t": "LE AREE DI INTERVENTO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1073,
+   "x": 983,
+   "t": "COLLABORATION",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1086,
+   "x": 343,
+   "t": "ALIGNMENT",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1160,
+   "x": 249,
+   "t": "Obiettivi condivisi, ruoli chiari, direzione comune",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1151,
+   "x": 562,
+   "t": "Fiducia, ascolto e comunicazione efficace",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1152,
+   "x": 905,
+   "t": "Interdipendenza, confronto costruttivo e cultura del feedback",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1332,
+   "x": 641,
+   "t": "PERFORMANCE",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  }
+ ]
+}

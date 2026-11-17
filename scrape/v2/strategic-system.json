@@ -1,0 +1,380 @@
+{
+ "url": "https://talentlabconsulting.it/strategic-system",
+ "status": 200,
+ "title": "Strategic System | Talent Lab OS - talentlabconsulting",
+ "description": "Scopri lo Strategic System di Talent Lab OS, il metodo che integra ricerca, sviluppo del talento e coaching per accompagnare persone e organizzazioni.",
+ "height": 2674,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_e5d4cbe91734266e81d56ad765ff7bad1bc6cbdc.png/v1/x_0,y_0,w_85,h_83/03_icona_flessibilita_premium_hd.webp",
+   "alt": "",
+   "y": 1311,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_9029e701d501de1c4429678af603ac0ce425f08d.png/v1/x_0,y_0,w_85,h_83/03_icona_autonomia_premium_hd.webp",
+   "alt": "",
+   "y": 1311,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_30d1b935270c8ea2b8104259663213967033b6f8.png/v1/x_0,y_0,w_85,h_83/03_icona_integrazione_premium_hd.webp",
+   "alt": "",
+   "y": 1311,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_35e17d0cee8a6391cc553c590834e95fa9b0c056.png/v1/x_0,y_0,w_85,h_83/03_icona_struttura_solida_premium_hd.webp",
+   "alt": "",
+   "y": 1316,
+   "shown": [
+    85,
+    83
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_b0883d837159f069f1f9e996b857e7a53c95977d.png/v1/x_0,y_0,w_333,h_247/03_persone.webp",
+   "alt": "03_persone",
+   "y": 1727,
+   "shown": [
+    333,
+    247
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_99196c1200d80ed707ca4d6a32ba3373ae18f82b.png/v1/x_31,y_0,w_331,h_248/03_team.webp",
+   "alt": "03_team",
+   "y": 1727,
+   "shown": [
+    331,
+    248
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_ea4c099bbc2bfc96c83cb1cce757cef36abe8772.png/v1/x_17,y_0,w_324,h_247/03_organizzazioni.webp",
+   "alt": "03_organizzazioni",
+   "y": 1727,
+   "shown": [
+    324,
+    247
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_71f9f32b232a0c1a91576671323b14fd4c3443c6.png/v1/w_1440,h_0,dpr_2/immagine%20chatgpt%2029%20set%202026%2c%2018_36_46.webp",
+   "y": 236,
+   "w": 1440,
+   "h": 802
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/campi-di-azione",
+   "text": "SCOPRI IL NOSTRO FRAMEWORK"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 276,
+   "x": 236,
+   "t": "IL NOSTRO FRAMEWORK",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 320,
+   "x": 231,
+   "t": "Un sistema",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 381,
+   "x": 231,
+   "t": "più possibilità",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 442,
+   "x": 231,
+   "t": "di intervento",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 542,
+   "x": 231,
+   "t": "Talent Lab OS Strategic System è il nostro framework proprietario attraverso cui progettiamo",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 638,
+   "x": 231,
+   "t": "e realizziamo interventi su persone, team ed organizzazioni",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 721,
+   "x": 231,
+   "t": "Non un percorso predefinito",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 753,
+   "x": 231,
+   "t": "non una sequenza obbligata di servizi",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 785,
+   "x": 231,
+   "t": "ma una struttura solida e flessibile capace",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 817,
+   "x": 231,
+   "t": "di adattarsi a contesti e bisogni specifici",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 868,
+   "x": 231,
+   "t": "Ogni intervento può vivere autonomamente",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 900,
+   "x": 231,
+   "t": "oppure, quando genera maggior valore, dialogare con altri ambiti dello Strategic System",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 907,
+   "x": 946,
+   "t": "Un framework comune",
+   "fs": "23px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 935,
+   "x": 952,
+   "t": "interventi indipendenti",
+   "fs": "23px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 962,
+   "x": 864,
+   "t": "soluzioni costruite sul bisogno",
+   "fs": "23px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1059,
+   "x": 222,
+   "t": "Come funziona lo Strategic System",
+   "fs": "49px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1086,
+   "x": 708,
+   "t": "Una struttura comune che integra metodo, visione e flessibilità, per costruire interventi realmente coerenti con obiettivi, persone e contesti",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1415,
+   "x": 256,
+   "t": "STRUTTURA SOLIDA",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1415,
+   "x": 540,
+   "t": "FLESSIBILITÀ",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1415,
+   "x": 1030,
+   "t": "INTEGRAZIONE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1473,
+   "x": 227,
+   "t": "un impianto metodologico chiaro e riconoscibile",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1473,
+   "x": 482,
+   "t": "ogni intervento si adatta al contesto e al bisogno",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1473,
+   "x": 993,
+   "t": "quando serve i diversi interventi dialogano tra loro",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1671,
+   "x": 235,
+   "t": "Ambiti di applicazione",
+   "fs": "24px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2006,
+   "x": 226,
+   "t": "PERSONE",
+   "fs": "22px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 2005,
+   "x": 582,
+   "t": "TEAM",
+   "fs": "22px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 2003,
+   "x": 916,
+   "t": "ORGANIZZAZIONI",
+   "fs": "22px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 2051,
+   "x": 226,
+   "t": "Sviluppo, orientamento, coaching e decisioni",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2048,
+   "x": 916,
+   "t": "Scelte, modelli, cultura e direzione del cambiamento",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2336,
+   "x": 222,
+   "t": "Diversi ambiti",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2397,
+   "x": 222,
+   "t": "un'unica direzione",
+   "fs": "51px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 2556,
+   "x": 210,
+   "t": "SCOPRI IL NOSTRO FRAMEWORK",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Lato"
+  }
+ ]
+}

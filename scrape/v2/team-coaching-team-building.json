@@ -1,0 +1,330 @@
+{
+ "url": "https://talentlabconsulting.it/team-coaching-team-building",
+ "status": 200,
+ "title": "Team Coaching e Team Building | Talent Lab OS - talentlabconsulting",
+ "description": "Scopri come Talent Lab OS integra team building e team coaching per trasformare le esperienze condivise in apprendimento e cambiamenti nel lavoro.",
+ "height": 2395,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_2c41e45b5b2e92d98190dacd06d2085743aea639.png/v1/x_0,y_0,w_62,h_63/spunta%20in%20platino%20su%20disco%20navy.webp",
+   "alt": "",
+   "y": 1006,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8f16e4eac941c0ee2bf04217438275ed7768a056.png/v1/x_0,y_0,w_66,h_66/immagine%20chatgpt%2022%20ott%202026,%2011_43_05-6.webp",
+   "alt": "immagine chatgpt 22 ott 2026, 11_43_05-6",
+   "y": 999,
+   "shown": [
+    66,
+    66
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_dd37dc5650c440271893be1e68f0bc01ddaa2f9c.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2029%20set%202026%2C%2017_29_19-1.webp",
+   "alt": "",
+   "y": 1006,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_bfb180c86e6b5ee0a6ee65cce2198b793f013699.png/v1/x_0,y_0,w_60,h_64/immagine%20chatgpt%2029%20set%202026,%2017_29_22-3.webp",
+   "alt": "immagine chatgpt 29 set 2026, 17_29_22-3",
+   "y": 1284,
+   "shown": [
+    60,
+    64
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_7fd1629978108e841a2cd4804c2ec72abb77f447.png/v1/x_0,y_0,w_246,h_56/04_partner_logo_estratto_originale.webp",
+   "alt": "",
+   "y": 1727,
+   "shown": [
+    246,
+    56
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_d1cac468f2b351fff849f6c71636dec7c920144a.jpeg/v1/w_1440,h_0,dpr_2/01_hero_due_escursionisti_2560x920.webp",
+   "y": 231,
+   "w": 1440,
+   "h": 663
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://www.teambuilding.it/formazione/",
+   "text": "VAI ALLA SEZIONE FORMAZIONE"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 179,
+   "x": 463,
+   "t": "Home",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 311,
+   "x": 222,
+   "t": "CONNECT",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 401,
+   "x": 222,
+   "t": "Team Coaching + Team Building",
+   "fs": "46px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 473,
+   "x": 222,
+   "t": "L'esperienza attiva il team",
+   "fs": "28px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 507,
+   "x": 222,
+   "t": "Il coaching trasforma l'esperienza",
+   "fs": "28px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 541,
+   "x": 222,
+   "t": "in consapevolezza e cambiamento",
+   "fs": "28px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 613,
+   "x": 222,
+   "t": "Integrare Team Building e Team Coaching",
+   "fs": "23px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 640,
+   "x": 222,
+   "t": "significa trasformare l'esperienza in insight concreti e duraturi, accelerando l'evoluzione del Team",
+   "fs": "23px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 908,
+   "x": 224,
+   "t": "IL NOSTRO MODELLO DI INTEGRAZIONE",
+   "fs": "22px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1018,
+   "x": 318,
+   "t": "EXPERIENCE",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1017,
+   "x": 631,
+   "t": "OBSERVE",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1018,
+   "x": 982,
+   "t": "DEBRIEF",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1086,
+   "x": 250,
+   "t": "Il Team vive un'esperienza concreta e sfidante",
+   "fs": "19px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1086,
+   "x": 557,
+   "t": "Emergono comportamenti, dinamiche e opportunità",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1084,
+   "x": 909,
+   "t": "L'esperienza vissuta viene riletta attraverso il coaching",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1292,
+   "x": 321,
+   "t": "INSIGHT",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1307,
+   "x": 652,
+   "t": "TRANSFER",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1303,
+   "x": 967,
+   "t": "CHANGE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1376,
+   "x": 249,
+   "t": "Il Team riconosce pattern, risorse e aree di evoluzione",
+   "fs": "17px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1376,
+   "x": 587,
+   "t": "Gli insight vengono riportati nel contesto professionale reale",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1374,
+   "x": 887,
+   "t": "I nuovi comportamenti diventano pratica di lavoro",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1653,
+   "x": 229,
+   "t": "TEAM BUILDING STRATEGIC PARTNER",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1729,
+   "x": 507,
+   "t": "Per la progettazione e realizzazione delle attività di Team Building, Talent Lab Consulting",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1772,
+   "x": 507,
+   "t": "opera in partnership con Teambuilding.it, partner strategico nella creazione e conduzione di esperienze di Team Building ad alto valore.",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1871,
+   "x": 238,
+   "t": "PER INFORMAZIONI SULLE ATTIVITÀ DI TEAM BUILDING",
+   "fs": "16px",
+   "fw": "700",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1892,
+   "x": 238,
+   "t": "Visita la sezione FORMAZIONE di teambuilding.it,",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  },
+  {
+   "y": 1887,
+   "x": 889,
+   "t": "VAI ALLA SEZIONE FORMAZIONE",
+   "fs": "12px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1911,
+   "x": 238,
+   "t": "nella richiesta di informazioni indica “Talent Lab OS” come fonte del contatto",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Open Sans"
+  }
+ ]
+}

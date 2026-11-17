@@ -1,0 +1,89 @@
+<main id="main">
+  <!-- Testi: solo quelli del sito attuale (scrape/v2/campi-di-azione.txt, 17/11/2026), nell'ordine del sito.
+       Schede-poster: il testo è dentro le immagini; alt = testo trascritto in scrape/v2/testi-immagini.txt.
+       Link come sul sito (scrape/v2/campi-di-azione.json): Connect porta a Team Coaching + Team Building.
+       Sul sito, tra Metodologie integrate e Competenze multidisciplinari c'è una colonna con la sola icona della
+       bussola (niente titolo, niente testo): qui non c'è. La banda finale sul sito è un riquadro blu senza foto: qui
+       ha la bussola, come in Strategic System (stessa frase). -->
+
+  <!-- Eroe -->
+  <section class="hero hero--page section--dark" data-hero aria-labelledby="hero-title">
+    <div class="hero__media">
+      [[pic name="campi-vetta" sizes="100vw" eager pos="50% 50%" alt="Un uomo in cima a una montagna guarda valli attraversate da sentieri di luce, al tramonto"]]
+    </div>
+    <div class="hero__veil"></div>
+    <div class="hero__shade"></div>
+    <div class="wrap hero__inner">
+      <p class="label" data-hero-item>Campi di azione</p>
+      <h1 class="display" id="hero-title" data-split>Un framework, diversi campi di <em>azione</em>.</h1>
+      <p class="lead hero__lead" data-hero-item>Il nostro framework proprietario integra metodologie, strumenti e competenze per generare valore nelle aree chiave del talento, delle persone e delle organizzazioni.</p>
+      <p class="hero__aside" data-hero-item>Stessi principi,<br>contesti diversi,<br>risultati concreti.</p>
+    </div>
+  </section>
+
+  <!-- I quattro campi: schede-poster con link -->
+  <section class="section section--dark section--flush">
+    <div class="wrap">
+      <div class="tiles" style="--cols:4">
+        <a class="tile tile--poster" href="{{R}}executive-search/" data-reveal>
+          <div class="tile__media">[[pic name="campo-choose" sizes="(min-width: 1000px) 25vw, (min-width: 640px) 50vw, 100vw" alt="01 Choose. Strategic Recruiting. Le persone giuste. Le condizioni giuste. Per generare valore."]]</div>
+        </a>
+        <a class="tile tile--poster" href="{{R}}executive-coaching/" data-reveal>
+          <div class="tile__media">[[pic name="campo-develop" sizes="(min-width: 1000px) 25vw, (min-width: 640px) 50vw, 100vw" alt="02 Develop. Leadership &amp; Coaching. Consapevolezza, competenze e comportamenti per una leadership più efficace e autentica."]]</div>
+        </a>
+        <a class="tile tile--poster" href="{{R}}team-coaching-team-building/" data-reveal>
+          <div class="tile__media">[[pic name="campo-connect" sizes="(min-width: 1000px) 25vw, (min-width: 640px) 50vw, 100vw" alt="03 Connect. Team Development. Persone che collaborano. Team che generano. Organizzazioni che crescono."]]</div>
+        </a>
+        <a class="tile tile--poster" href="{{R}}learning-development/" data-reveal>
+          <div class="tile__media">[[pic name="campo-grow" sizes="(min-width: 1000px) 25vw, (min-width: 640px) 50vw, 100vw" alt="04 Grow. Learning &amp; Development. Conoscenza, esperienza e pratica per trasformare il potenziale in risultati."]]</div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Un framework integrato e flessibile -->
+  <section class="section section--light" aria-labelledby="fw-title">
+    <div class="wrap">
+      <div class="split">
+        <div><h2 class="h2" id="fw-title" data-split>Un framework integrato e <em>flessibile</em>.</h2></div>
+        <div>
+          <p class="lead" data-reveal>Il nostro Strategic System è un framework proprietario che unisce metodo, visione e concretezza, capace di adattarsi a contesti e bisogni specifici di ogni realtà.</p>
+          <p class="lead" data-reveal>Ogni ambito può vivere <strong>autonomamente</strong> oppure, quando genera maggior valore, <strong>dialogare</strong> con altri ambiti in un sistema integrato.</p>
+        </div>
+      </div>
+      <div class="cards" style="--cols:3">
+        <article class="card" data-reveal data-spotlight><span class="card__icon">[[icon intersect]]</span>
+          <h3 class="card__title">Metodologie integrate</h3><p>Un impianto metodologico chiaro e riconoscibile.</p></article>
+        <article class="card" data-reveal data-spotlight><span class="card__icon">[[icon arrows-split]]</span>
+          <h3 class="card__title">Competenze multidisciplinari</h3><p>Ogni ambito può essere autonomo dagli altri.</p></article>
+        <article class="card" data-reveal data-spotlight><span class="card__icon">[[icon cube]]</span>
+          <h3 class="card__title">Valore sostenibile</h3><p>Soluzioni concrete per persone, team e organizzazioni.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Banda finale del sito -->
+  <section class="band section--dark" aria-label="Diversi ambiti, un'unica direzione">
+    <div class="band__media">[[pic name="bussola-dettaglio" sizes="100vw" pos="60% 50%" alt="Il quadrante di una bussola d'ottone in primo piano, con la rosa dei venti dorata"]]</div>
+    <div class="band__veil"></div>
+    <div class="wrap band__inner">
+      <p class="quote" data-split>Diversi ambiti, un'unica <em>direzione</em>.</p>
+    </div>
+  </section>
+
+  <!-- Chiamata finale standard -->
+  <section class="cta section--dark" aria-labelledby="cta-title">
+    <div class="cta__media">[[pic name="vetta" sizes="100vw" alt="Un uomo in cima a una montagna guarda le valli al tramonto"]]</div>
+    <div class="cta__veil"></div>
+    <div class="cta__compass" data-compass="final" aria-hidden="true">[[compass]]</div>
+    <div class="wrap cta__inner">
+      <h2 class="h2" id="cta-title" data-split>Parla con il nostro <em>Team</em>.</h2>
+      <p class="lead" data-reveal>Per richiedere informazioni sui nostri servizi o per essere ricontattato dal nostro Team di esperti.</p>
+      <div class="btn-row" data-reveal>
+        <a class="btn btn--primary" href="{{R}}contatti/" data-magnetic>Scrivici [[icon arrow-right]]</a>
+        <a class="btn btn--ghost" href="https://wa.me/393806338747" target="_blank" rel="noopener">[[icon whatsapp-logo]] Chatta con noi</a>
+      </div>
+    </div>
+  </section>
+
+</main>

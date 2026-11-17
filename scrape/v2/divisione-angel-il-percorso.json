@@ -1,0 +1,400 @@
+{
+ "url": "https://talentlabconsulting.it/divisione-angel-il-percorso",
+ "status": 200,
+ "title": "Il percorso della Divisione Angel | Talent Lab OS - talentlabconsulting",
+ "description": "Esplora il percorso della Divisione Angel per fare il punto sulle competenze e definire i prossimi passi del proprio sviluppo professionale.",
+ "height": 2651,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_1f247d4ea47616714a500a9016e3bb0b81b93365.png/v1/s/immagine%20chatgpt%2022%20ott%202026,%2011_42_59-3.webp",
+   "alt": "immagine chatgpt 22 ott 2026, 11_42_59-3",
+   "y": 1568,
+   "shown": [
+    1814,
+    1021
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_84be77caed112e36a25e864b1a0d8e4bae803a0a.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2013%20ott%202026%2C%2010_48_43-8.webp",
+   "alt": "",
+   "y": 1097,
+   "shown": [
+    62,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8f16e4eac941c0ee2bf04217438275ed7768a056.png/v1/x_0,y_0,w_66,h_66/immagine%20chatgpt%2022%20ott%202026,%2011_43_05-6.webp",
+   "alt": "immagine chatgpt 22 ott 2026, 11_43_05-6",
+   "y": 1090,
+   "shown": [
+    66,
+    66
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_f200a65228985d1927b80e71e96a9fb3ee9c43ae.png/v1/x_0,y_0,w_64,h_62/immagine%20chatgpt%2022%20ott%202026,%2011_43_07-7.webp",
+   "alt": "immagine chatgpt 22 ott 2026, 11_43_07-7",
+   "y": 1338,
+   "shown": [
+    64,
+    62
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_b3eea04b857f8972e180fdc06e39f4b5b1252ca6.svg",
+   "alt": "",
+   "y": 1890,
+   "shown": [
+    137,
+    103
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_fbbcdd55f3259892f052283f66664c587bde69bd.png/v1/x_0,y_0,w_64,h_62/immagine%20chatgpt%2022%20ott%202026,%2011_43_08-8.webp",
+   "alt": "immagine chatgpt 22 ott 2026, 11_43_08-8",
+   "y": 1340,
+   "shown": [
+    64,
+    62
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_99f662fc0cb0944e3a3e368f264c7c5dc1e76587.png/v1/x_0,y_0,w_62,h_63/immagine%20chatgpt%2022%20ott%202026%2C%2011_43_04-5.webp",
+   "alt": "",
+   "y": 1096,
+   "shown": [
+    62,
+    63
+   ]
+  }
+ ],
+ "bgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_ee55431208f6a5f93427eb3b5ae2af99d1428707.png/v1/w_1440,h_0,dpr_2/immagine%20chatgpt%2020%20ott%202026%2c%2008_53_41.webp",
+   "y": 231,
+   "w": 1440,
+   "h": 749
+  }
+ ],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [
+  "https://static.supersite.aruba.it/server.html"
+ ],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 259,
+   "x": 211,
+   "t": "DIVISIONE",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 252,
+   "x": 368,
+   "t": "ANGEL",
+   "fs": "23px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 285,
+   "x": 231,
+   "t": "IL PERCORSO",
+   "fs": "42px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 335,
+   "x": 231,
+   "t": "DALLA TUA STORIA ALLE MIGLIORI OPPORTUNITÀ",
+   "fs": "29px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 408,
+   "x": 231,
+   "t": "Un percorso strutturato e personalizzato che mette al centro la tua esperienza, i tuoi obiettivi e il tuo progetto personale e professionale, per individuare e accedere alle opportunità più coerenti nel mondo Banking & Finance",
+   "fs": "21px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 848,
+   "x": 1032,
+   "t": "STESSA PROFESSIONE",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 873,
+   "x": 1026,
+   "t": "NUOVE OPPORTUNITÀ",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 898,
+   "x": 1050,
+   "t": "PER IL TUO FUTURO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1012,
+   "x": 222,
+   "t": "LE FASI DEL PERCORSO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1096,
+   "x": 984,
+   "t": "DEFINIZIONE DELLE OPPORTUNITÀ",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1109,
+   "x": 323,
+   "t": "ANALISI PERSONALE",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1184,
+   "x": 562,
+   "t": "- Mappatura delle principali realtà",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1194,
+   "x": 249,
+   "t": "- La tua storia professionale",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1185,
+   "x": 905,
+   "t": "- Selezione di aziende e ruoli in linea con il tuo profilo",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1203,
+   "x": 562,
+   "t": "del settore",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1217,
+   "x": 249,
+   "t": "- I tuoi valori, le tue motivazioni - Il progetto di vita e gli obiettivi",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1222,
+   "x": 562,
+   "t": "- Valutazione delle opportunità",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1223,
+   "x": 905,
+   "t": "- Condivisione di informazioni",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1241,
+   "x": 562,
+   "t": "realmente coerenti",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1243,
+   "x": 905,
+   "t": "- Valutazione congiunta di vantaggi, sfide e prospettive",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1261,
+   "x": 249,
+   "t": "di medio-lungo periodo",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1261,
+   "x": 562,
+   "t": "- Trend e scenari di evoluzione",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1280,
+   "x": 562,
+   "t": "del mercato",
+   "fs": "16px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1348,
+   "x": 321,
+   "t": "ACCOMPAGNAMENTO NEL PROCESSO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1350,
+   "x": 830,
+   "t": "ACCOMPAGNAMENTO NEL PROCESSO",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1432,
+   "x": 249,
+   "t": "- Supporto nella preparazione ai colloqui",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1426,
+   "x": 747,
+   "t": "- Affiancamento fino alla scelta finale",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1454,
+   "x": 249,
+   "t": "- Confronto e debrief dopo ogni incontro",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1448,
+   "x": 747,
+   "t": "- Supporto nel passaggio e avvio del nuovo",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1475,
+   "x": 249,
+   "t": "- Consulenza nelle fasi negoziali e decisionali",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1469,
+   "x": 747,
+   "t": "percorso",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1491,
+   "x": 747,
+   "t": "-",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1491,
+   "x": 762,
+   "t": "Una relazione che continua anche dopo la decisione",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1614,
+   "x": 231,
+   "t": "Nuove prospettive",
+   "fs": "58px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1684,
+   "x": 231,
+   "t": "Stessa passione",
+   "fs": "58px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  }
+ ]
+}

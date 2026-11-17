@@ -1,0 +1,12 @@
+   86 1133 [25px 700] MENU
+  252  287 [24px 400] CONNECT
+  326  231 [50px 400] Team Coaching
+  385  231 [31px 400] Team più consapevoli, risultati duraturi
+  491  232 [21px 400] Accompagniamo i Team in un percorso di crescita che unisce consapevolezza, relazioni, collaborazione e performance, per trasformare il potenziale individuale in risultati collettivi.
+  999  222 [18px 400] LE AREE DI INTERVENTO
+ 1073  983 [20px 400] COLLABORATION
+ 1086  343 [20px 400] ALIGNMENT
+ 1160  249 [18px 400] Obiettivi condivisi, ruoli chiari, direzione comune
+ 1151  562 [18px 400] Fiducia, ascolto e comunicazione efficace
+ 1152  905 [18px 400] Interdipendenza, confronto costruttivo e cultura del feedback
+ 1332  641 [20px 400] PERFORMANCE

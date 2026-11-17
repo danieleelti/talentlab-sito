@@ -1,0 +1,56 @@
+# Testo trascritto il 17/11/2026 (Claude, guardando le immagini) dalle immagini del sito che contengono testo.
+# File: scrape/v2/img/<hash8>.* (URL originali in scrape/v2/img/list.txt). Una riga = un testo, in ordine di lettura.
+# Le righe che iniziano con # sono note: tools/audit-testi.py le salta, tutte le altre entrano nel corpus dei testi
+# del sito. Non trascritti: scritte decorative delle foto (anello della bussola in 8006135e, «People Insight Growth»
+# sul taccuino di ee554312, logo sullo sfondo di d917a48c, numeri 01/02/03 in b0883d83, 99196c12, ea4c099b).
+
+# 33f7caab — avviso della pagina Formazione & Sviluppo (learning-development): sulla demo diventa testo vivo
+TALENT LAB OS
+STRATEGIC SYSTEM
+Stiamo aggiornando la sezione Formazione
+saremo online a breve
+quando il potenziale trova direzione genera valore
+
+# 8006135e — scheda-poster 01 dei Campi di azione (→ executive-search): testo per l'alt
+01
+CHOOSE
+Strategic Recruiting
+Le persone giuste. Le condizioni giuste. Per generare valore.
+
+# e7fc3c74 — scheda-poster 02 dei Campi di azione (→ executive-coaching): testo per l'alt
+02
+DEVELOP
+Leadership & Coaching
+Consapevolezza, competenze e comportamenti per una leadership più efficace e autentica.
+
+# ef9ac4de — scheda-poster 03 dei Campi di azione (→ team-coaching): testo per l'alt
+03
+CONNECT
+Team Development
+Persone che collaborano. Team che generano. Organizzazioni che crescono.
+
+# 97de1baa — scheda-poster 04 dei Campi di azione (→ learning-development): testo per l'alt
+04
+GROW
+Learning & Development
+Conoscenza, esperienza e pratica per trasformare il potenziale in risultati.
+
+# 4cb712ba — infografica «I nostri strumenti proprietari» (executive-coaching-il-metodo): testo per l'alt
+I NOSTRI STRUMENTI PROPRIETARI
+PMI MATRIX
+Allineamento: Alto, Basso
+Energia: Bassa, Alta
+STABILIZZA — Valore da preservare
+ACCELERA — Massimo potenziale
+RIPOSIZIONA — Valuta alternative
+SVILUPPA — Energia da orientare
+TO-DO EVOLUTIVO
+Obiettivo — Cosa voglio raggiungere
+Azione concreta — Cosa faccio, entro quando
+Risultato atteso — Come lo misuro
+Review — Cosa ho impattato
+INSIGHT & FEEDBACK
+AUTO-CONSAPEVOLEZZA — Comprendere i propri schemi e ampliare le prospettive.
+CONFRONTO MIRATO — Feedback strutturato e oggettivo.
+MISURAZIONE — Indicatori concreti di progresso e impatto.
+SOSTENIBILITÀ — Nuove abitudini, risultati duraturi.

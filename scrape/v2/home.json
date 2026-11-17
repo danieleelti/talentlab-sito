@@ -1,0 +1,362 @@
+{
+ "url": "https://talentlabconsulting.it/",
+ "status": 200,
+ "title": "Executive Search e Coaching per banche e reti | Talent Lab OS - talentlabconsulting",
+ "description": "Talent Lab OS affianca banche e reti di consulenza finanziaria nella ricerca di talenti e nello sviluppo di leader e team con coaching e formazione.",
+ "height": 3271,
+ "imgs": [
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_8014aa393acc88bf17f5911edc36986ed515b764.png/v1/x_0,y_0,w_215,h_108/talent-lab-os-platino.webp",
+   "alt": "",
+   "y": 63,
+   "shown": [
+    215,
+    108
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_e06a726c9a4403f30f32f6b3a05801f348eef1fb.png/v1/s/immagine%20chatgpt%2029%20set%202026,%2010_44_33.webp",
+   "alt": "immagine chatgpt 29 set 2026, 10_44_33",
+   "y": 1977,
+   "shown": [
+    1488,
+    838
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_53165033e0249de9fdf46ee4dedcacce320d619b.png/v1/x_0,y_355,w_1440,h_457/bussola.webp",
+   "alt": "",
+   "y": 236,
+   "shown": [
+    1446,
+    457
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_407f78ecf5a48aee699050cc884056c28bf8e4f0.png/v1/x_0,y_0,w_523,h_331/futuro.webp",
+   "alt": "futuro",
+   "y": 773,
+   "shown": [
+    523,
+    331
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_a5b60b3fa2eb91728f409dcb665dcfcffb796918.png/v1/x_0,y_0,w_73,h_63/icone.webp",
+   "alt": "",
+   "y": 1588,
+   "shown": [
+    73,
+    63
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_763c11b17d2027c8a8dd23b2d3cfd40345f48e4d.png/v1/x_0,y_0,w_67,h_85/chatgpt%20image%2023%20set%202026%2C%2014_30_07.webp",
+   "alt": "",
+   "y": 1577,
+   "shown": [
+    67,
+    85
+   ]
+  },
+  {
+   "src": "https://files.supersite.aruba.it/media/21546_f34a8d04fa6317f28ac6613713f44ac815338578.png/v1/x_0,y_0,w_73,h_52/chatgpt%20image%2023%20set%202026%2C%2014_29_40.webp",
+   "alt": "",
+   "y": 1593,
+   "shown": [
+    73,
+    52
+   ]
+  }
+ ],
+ "bgs": [],
+ "links": [
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Informativa sui Cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/contatti",
+   "text": "Parla con il nostro Team"
+  },
+  {
+   "href": "https://files.supersite.aruba.it/media/21546_a3d995a052a4503fde577d8624b0b3c3f27c56b4.pdf/o/brochure%20talent%20lab%20os.pdf",
+   "text": "Scarica la nostra Brochure"
+  },
+  {
+   "href": "https://talentlabconsulting.it/executive-search",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/executive-coaching",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/team-coaching-team-building",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Scopri di più"
+  },
+  {
+   "href": "https://talentlabconsulting.it/cookie-policy",
+   "text": "Dichiarazione dei cookie"
+  },
+  {
+   "href": "https://talentlabconsulting.it/privacy-policy",
+   "text": "Informativa sulla privacy"
+  }
+ ],
+ "videos": [],
+ "lines": [
+  {
+   "y": 86,
+   "x": 1133,
+   "t": "MENU",
+   "fs": "25px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 242,
+   "x": 231,
+   "t": "Talent Strategy",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 302,
+   "x": 231,
+   "t": "Human Impact",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 400,
+   "x": 231,
+   "t": "Siamo una Boutique consultancy specializzata nello sviluppo del talento. Uniamo esperienza, rigore metodologico e una profonda attenzione alle persone per supportare le aziende nel costruire organizzazioni più forti, consapevoli e orientate al futuro.",
+   "fs": "20px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 710,
+   "x": 221,
+   "t": "IL PUNTO DI PARTENZA",
+   "fs": "18px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 761,
+   "x": 219,
+   "t": "L'esperienza diventa metodo",
+   "fs": "37px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 858,
+   "x": 229,
+   "t": "Le organizzazioni non hanno semplicemente bisogno di trovare persone competenti, hanno bisogno di riconoscere il potenziale, attrarlo, farlo evolvere e trasformarlo in valore",
+   "fs": "22px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 1100,
+   "x": 229,
+   "t": "Il talento genera valore",
+   "fs": "37px",
+   "fw": "700",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1141,
+   "x": 229,
+   "t": "quando il potenziale trova una direzione",
+   "fs": "37px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1263,
+   "x": 402,
+   "t": "Un sistema completo per un impatto",
+   "fs": "48px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1316,
+   "x": 627,
+   "t": "ad alto valore",
+   "fs": "48px",
+   "fw": "400",
+   "ff": "Cormorant Garamond"
+  },
+  {
+   "y": 1418,
+   "x": 361,
+   "t": "Un sistema integrato di soluzioni per attrarre, sviluppare e connettere le persone, generando un impatto misurabile e duraturo",
+   "fs": "22px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 1595,
+   "x": 337,
+   "t": "Choose",
+   "fs": "24px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1595,
+   "x": 692,
+   "t": "Develop",
+   "fs": "24px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1595,
+   "x": 1017,
+   "t": "Connect",
+   "fs": "24px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1622,
+   "x": 299,
+   "t": "Strategy Recruiting",
+   "fs": "17px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1622,
+   "x": 640,
+   "t": "Leadership & Coaching",
+   "fs": "17px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1622,
+   "x": 983,
+   "t": "Team Development",
+   "fs": "17px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 1680,
+   "x": 262,
+   "t": "Attraiamo e selezioniamo i migliori talenti, in linea con i valori e gli obiettivi della tua organizzazione",
+   "fs": "19px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 1704,
+   "x": 619,
+   "t": "Supportiamo la crescita di leader e team, attraverso percorsi di sviluppo su misura e strumenti evidence-based",
+   "fs": "19px",
+   "fw": "400",
+   "ff": "Roboto"
+  },
+  {
+   "y": 1807,
+   "x": 403,
+   "t": "Scopri di più",
+   "fs": "15px",
+   "fw": "400",
+   "ff": "Lato"
+  },
+  {
+   "y": 1807,
+   "x": 745,
+   "t": "Scopri di più",
+   "fs": "15px",
+   "fw": "400",
+   "ff": "Lato"
+  },
+  {
+   "y": 1805,
+   "x": 1079,
+   "t": "Scopri di più",
+   "fs": "15px",
+   "fw": "400",
+   "ff": "Lato"
+  },
+  {
+   "y": 2042,
+   "x": 446,
+   "t": "Riconoscere il potenziale",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2117,
+   "x": 666,
+   "t": "è l'inizio",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2192,
+   "x": 478,
+   "t": "Trasformarlo in valore",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2267,
+   "x": 578,
+   "t": "è la vera sfida",
+   "fs": "50px",
+   "fw": "400",
+   "ff": "Poppins"
+  },
+  {
+   "y": 2897,
+   "x": 295,
+   "t": "Per richiedere informazioni sui nostri servizi o per essere ricontattato dal nostro",
+   "fs": "24px",
+   "fw": "400",
+   "ff": "Muli"
+  },
+  {
+   "y": 2958,
+   "x": 647,
+   "t": "Team di esperti",
+   "fs": "24px",
+   "fw": "700",
+   "ff": "Muli"
+  },
+  {
+   "y": 3033,
+   "x": 631,
+   "t": "Parla con il nostro Team",
+   "fs": "15px",
+   "fw": "400",
+   "ff": "Muli"
+  },
+  {
+   "y": 3154,
+   "x": 649,
+   "t": "Scarica la nostra Brochure",
+   "fs": "15px",
+   "fw": "400",
+   "ff": "Muli"
+  }
+ ]
+}

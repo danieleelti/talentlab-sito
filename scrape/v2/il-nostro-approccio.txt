@@ -1,0 +1,29 @@
+   86 1133 [25px 700] MENU
+  269  234 [50px 400] Il Talento
+  324  234 [50px 400] non è punto di arrivo
+  379  234 [50px 400] è il punto
+  434  234 [50px 400] da cui partire
+  555  234 [20px 400] Le organizzazzioni non hanno semplicemente bisogno
+  593  234 [20px 400] di trovare persone competenti
+  661  234 [20px 400] Hanno bisogno di riconoscere il potenziale
+  699  234 [20px 400] attrarlo, farlo evolvere, trasformarlo in valore
+  768  234 [20px 400] Perchè il talento da solo non basta
+  806  234 [20px 400] E' ciò che un organizzazione riesce a fare in modo sinergico
+  844  234 [20px 400] a generare la differenza
+ 1059  236 [16px 400] IL NOSTRO APPROCCIO
+ 1116  238 [49px 400] Dall'identificazione
+ 1141  790 [16px 400] Accompagniamo persone, team e organizzazioni in un percorso che trasforma il potenziale in valore attraverso un approccio integrato di consulenza, executive search, coaching e formazione
+ 1170  238 [49px 400] allo sviluppo
+ 1241  238 [49px 400] Un percorso integrato
+ 1452  543 [16px 400] ORIENTARE
+ 1452  797 [16px 400] SVILUPPARE
+ 1452 1014 [16px 400] GENERARE VALORE
+ 1512  479 [16px 400] Definire la direzione
+ 1510  754 [16px 400] Costruire competenze e consapevolezza
+ 1512  977 [16px 400] Trasformare il potenziale in risultati concreti
+ 1531  479 [16px 400] più adatta
+ 1736  596 [18px 400] LA NOSTRA CONVINZIONE
+ 1841  583 [56px 400] Il Talento
+ 1919  548 [56px 400] genera valore
+ 1998  475 [56px 400] quando il potenziale
+ 2076  486 [56px 400] trova una direzione

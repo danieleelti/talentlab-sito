@@ -1,0 +1,36 @@
+   86 1133 [25px 700] MENU
+  259  211 [16px 400] DIVISIONE
+  252  368 [23px 400] ANGEL
+  285  231 [42px 400] IL PERCORSO
+  335  231 [29px 400] DALLA TUA STORIA ALLE MIGLIORI OPPORTUNITÀ
+  408  231 [21px 400] Un percorso strutturato e personalizzato che mette al centro la tua esperienza, i tuoi obiettivi e il tuo progetto personale e professionale, per individuare e accedere alle opportunità più coerenti nel mondo Banking & Finance
+  848 1032 [18px 400] STESSA PROFESSIONE
+  873 1026 [18px 400] NUOVE OPPORTUNITÀ
+  898 1050 [18px 400] PER IL TUO FUTURO
+ 1012  222 [18px 400] LE FASI DEL PERCORSO
+ 1096  984 [18px 400] DEFINIZIONE DELLE OPPORTUNITÀ
+ 1109  323 [18px 400] ANALISI PERSONALE
+ 1184  562 [16px 400] - Mappatura delle principali realtà
+ 1194  249 [16px 400] - La tua storia professionale
+ 1185  905 [16px 400] - Selezione di aziende e ruoli in linea con il tuo profilo
+ 1203  562 [16px 400] del settore
+ 1217  249 [16px 400] - I tuoi valori, le tue motivazioni - Il progetto di vita e gli obiettivi
+ 1222  562 [16px 400] - Valutazione delle opportunità
+ 1223  905 [16px 400] - Condivisione di informazioni
+ 1241  562 [16px 400] realmente coerenti
+ 1243  905 [16px 400] - Valutazione congiunta di vantaggi, sfide e prospettive
+ 1261  249 [16px 400] di medio-lungo periodo
+ 1261  562 [16px 400] - Trend e scenari di evoluzione
+ 1280  562 [16px 400] del mercato
+ 1348  321 [18px 400] ACCOMPAGNAMENTO NEL PROCESSO
+ 1350  830 [18px 400] ACCOMPAGNAMENTO NEL PROCESSO
+ 1432  249 [18px 400] - Supporto nella preparazione ai colloqui
+ 1426  747 [18px 400] - Affiancamento fino alla scelta finale
+ 1454  249 [18px 400] - Confronto e debrief dopo ogni incontro
+ 1448  747 [18px 400] - Supporto nel passaggio e avvio del nuovo
+ 1475  249 [18px 400] - Consulenza nelle fasi negoziali e decisionali
+ 1469  747 [18px 400] percorso
+ 1491  747 [18px 400] -
+ 1491  762 [18px 400] Una relazione che continua anche dopo la decisione
+ 1614  231 [58px 700] Nuove prospettive
+ 1684  231 [58px 700] Stessa passione

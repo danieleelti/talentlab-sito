@@ -1,0 +1,271 @@
+/* Talent Lab OS — Versione B «Verde acido» (docs/design-B-verde-acido.md, §3 token e §7 componenti).
+   Si carica DOPO site.css, solo nelle pagine con <html data-tema="b"> (sito-b/ → https://www.teambuildingsrl.it/riccardo2/).
+   Stessa struttura, stessi testi, stesse animazioni della versione A: cambiano carattere (tutto Instrument Sans), colori
+   (bianco, inchiostro, un solo accento verde acido) e foto (bianco e nero, con un filtro CSS).
+   Capitoli: chiari (.section--light) bianchi o carta, scuri (.section--dark) neri, eroi bianchi (tranne Contatti),
+   chiamate finali (.cta) su verde pieno. I colori di contesto passano da variabili: --em-color / --em-mark / --em-pad
+   (parola chiave), --label / --dash (etichette), --focus (anello del focus), --c-* (bussole).
+   REGOLA FISSA: il verde acido non è mai colore del testo su bianco (1,3:1). Su chiaro sta SOTTO il testo nero
+   (evidenziatore, bottone); su nero può essere testo (15,3:1). */
+
+@font-face { font-family: "Instrument Sans"; src: url("../fonts/instrument-1.woff2") format("woff2"); font-weight: 400 700; font-stretch: 75% 100%; font-style: normal; font-display: swap; }
+
+/* ---------- Token ---------- */
+:root[data-tema="b"] {
+  /* palette B (§3.1) */
+  --carta-0: #ffffff; --carta-50: #f3f4ef; --carta-100: #e5e8de;
+  --inchiostro-950: #0c0d0b; --inchiostro-800: #1d1f1b; --inchiostro-700: #2c2f29;
+  --grafite-600: #3b3f38; --grafite-500: #4a4e45; --grafite-400: #5f645a;
+  --nebbia-200: #c9cdc3; --nebbia-400: #9a9f93;
+  --acido-400: #c5f53b; --acido-300: #d4f86a;
+  --linea-chiara: rgba(12, 13, 11, .12); --linea-scura: rgba(255, 255, 255, .14);
+  /* evidenziatore (§3.3): fascia verde tra il 54% e il 90% dell'altezza della riga */
+  --evidenziatore: linear-gradient(transparent 54%, var(--acido-400) 54%, var(--acido-400) 90%, transparent 90%);
+
+  /* i token della versione A presi dalla palette B: quello che site.css colora con var(--notte-…), var(--oro-…) ecc.
+     cambia da solo. L'«oro» diventa verde dove sta su nero o sotto testo nero; su chiaro diventa inchiostro. */
+  --notte-950: var(--inchiostro-950); --notte-900: var(--inchiostro-950); --notte-800: var(--inchiostro-800); --notte-700: var(--inchiostro-700);
+  --platino-50: var(--carta-0); --platino-200: var(--nebbia-200); --platino-400: var(--nebbia-400);
+  --avorio-50: var(--carta-0); --avorio-100: var(--carta-50);
+  --inchiostro-900: var(--inchiostro-950); --inchiostro-600: var(--grafite-600);
+  --oro-300: var(--acido-400); --oro-400: var(--acido-400); --oro-600: var(--inchiostro-950); --oro-700: var(--inchiostro-950);
+  --errore: #b3261e;
+
+  --f-display: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --f-text: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --shadow-dark: 0 40px 80px -40px rgba(0, 0, 0, .6);
+  --shadow-light: 0 24px 48px -28px rgba(12, 13, 11, .22);
+
+  /* contesto di partenza = scuro (testata, menu, footer) */
+  --em-color: var(--acido-400); --em-mark: none; --em-pad: 0; --focus: var(--acido-400);
+  font-synthesis: none; /* in B il corsivo non c'è: niente corsivo finto */
+}
+[data-tema="b"] body::after { display: none; } /* niente grana (§3.3) */
+[data-tema="b"] :focus-visible { outline-color: var(--focus); }
+
+/* ---------- Capitoli ---------- */
+[data-tema="b"] .section--dark {
+  --line: var(--linea-scura); --glow: rgba(197, 245, 59, .9); --glow-soft: rgba(197, 245, 59, .07);
+  --em-color: var(--acido-400); --em-mark: none; --em-pad: 0; --em-margin: 0; --focus: var(--acido-400); --label: var(--acido-400); --dash: var(--acido-400);
+}
+[data-tema="b"] .section--light {
+  --fg-3: var(--grafite-400); --line: var(--linea-chiara);
+  --surface: var(--carta-0); --glow: rgba(12, 13, 11, .6); --glow-soft: rgba(197, 245, 59, .14); --card-shadow: 0 18px 40px -30px rgba(12, 13, 11, .32);
+  --em-color: var(--inchiostro-950); --em-mark: var(--evidenziatore); --em-pad: .08em; --em-margin: -.08em; --focus: var(--inchiostro-950); --label: var(--grafite-400); --dash: var(--inchiostro-950);
+}
+/* Eroi bianchi (Home, Executive Search, Executive Coaching e le pagine interne); Contatti (.hero--short) resta nero */
+[data-tema="b"] .hero:not(.hero--short) {
+  --bg: var(--carta-0); --fg: var(--inchiostro-950); --fg-2: var(--grafite-600); --fg-3: var(--grafite-400);
+  --accent: var(--inchiostro-950); --accent-strong: var(--inchiostro-950); --line: var(--linea-chiara);
+  --em-color: var(--inchiostro-950); --em-mark: var(--evidenziatore); --em-pad: .08em; --em-margin: -.08em; --focus: var(--inchiostro-950); --label: var(--grafite-400); --dash: var(--inchiostro-950);
+  background: var(--bg); color: var(--fg-2);
+}
+/* Chiamate finali su verde pieno: testo e bottoni neri, parola chiave verde in un riquadro nero */
+[data-tema="b"] .cta {
+  --bg: var(--acido-400); --fg: var(--inchiostro-950); --fg-2: var(--inchiostro-800); --fg-3: var(--inchiostro-700);
+  --accent: var(--inchiostro-950); --accent-strong: var(--inchiostro-950); --line: rgba(12, 13, 11, .2);
+  --em-color: var(--acido-400); --em-mark: linear-gradient(var(--inchiostro-950), var(--inchiostro-950)); --em-pad: .12em; --em-margin: 0;
+  --focus: var(--inchiostro-950); --label: var(--inchiostro-950); --dash: var(--inchiostro-950);
+  background: var(--bg); color: var(--fg-2);
+}
+[data-tema="b"] .cta__media, [data-tema="b"] .cta__veil { display: none; }
+[data-tema="b"] .cta__compass { opacity: .13; } /* bussola in filigrana: linee nere sul verde */
+
+/* ---------- Tipografia (§3.2): tutto Instrument Sans, titoli 500 stretti, niente corsivo ---------- */
+[data-tema="b"] .display { font-weight: 500; font-size: clamp(2.25rem, 1.2rem + 4.8vw, 5.8rem); line-height: .96; letter-spacing: -.035em; }
+[data-tema="b"] .h2 { font-weight: 500; font-size: clamp(1.75rem, 1.08rem + 2.75vw, 3.65rem); line-height: 1; letter-spacing: -.035em; }
+[data-tema="b"] .h3 { font-weight: 500; font-size: clamp(1.25rem, 1rem + 1vw, 1.8rem); line-height: 1.15; letter-spacing: -.02em; }
+[data-tema="b"] .quote { font-weight: 400; font-size: clamp(1.5rem, .95rem + 2.6vw, 3.25rem); line-height: 1.12; letter-spacing: -.03em; }
+[data-tema="b"] .lightup__text .quote { font-weight: 500; font-size: clamp(1.9rem, 1.05rem + 3.9vw, 4.6rem); line-height: 1.04; letter-spacing: -.035em; }
+[data-tema="b"] .manifesto .quote { font-size: clamp(1.6rem, 1rem + 2.55vw, 3.25rem); line-height: 1.14; }
+[data-tema="b"] .band__inner .quote { font-weight: 500; font-size: clamp(2rem, 1.1rem + 4.2vw, 5rem); line-height: 1; letter-spacing: -.035em; }
+/* varianti per testi lunghi (site.css): misure di B */
+[data-tema="b"] .display.display--long { font-size: clamp(1.9rem, 1.1rem + 3.1vw, 4rem); line-height: 1; }
+[data-tema="b"] .band__inner .quote.quote--long { font-size: clamp(1.7rem, 1rem + 2.8vw, 3.5rem); line-height: 1.04; letter-spacing: -.03em; }
+/* parola chiave: mai corsivo. Su chiaro nera con l'evidenziatore verde, su nero verde, sul verde verde nel riquadro nero */
+[data-tema="b"] em {
+  font-style: normal; font-weight: inherit; color: var(--em-color);
+  background-image: var(--em-mark); background-repeat: no-repeat; background-size: 100% 100%; padding-inline: var(--em-pad);
+  margin-inline: var(--em-margin, 0); /* evidenziatore: sborda un poco senza spostare il testo */
+}
+/* con le animazioni l'evidenziatore parte vuoto e si disegna da sinistra dopo il titolo (site.js, design-B §6.2) */
+html.anim[data-tema="b"] :is([data-split], [data-words]) em { background-size: 0% 100%; }
+/* riga in evidenza */
+[data-tema="b"] :is(.hero__sub, .intro__punch, .fw__kicker, .founder__quote p) {
+  font-style: normal; font-weight: 500; font-size: clamp(1.125rem, .95rem + .95vw, 1.6rem); line-height: 1.25; letter-spacing: -.02em;
+}
+[data-tema="b"] :is(.serif-i, .panel__kicker, .hero__aside, .nav__panel a[aria-current="page"], .menu__group a[aria-current="page"]) { font-style: normal; }
+/* numeri grandi stretti, cifre tabellari */
+[data-tema="b"] :is(.panel__num, .step__num, .area__num, .track__num, .phase__num, .founder__num b) {
+  font-weight: 500; font-stretch: 75%; font-variant-numeric: tabular-nums; letter-spacing: -.02em;
+}
+[data-tema="b"] :is(.step__title, .area__title, .card__title, .phase__title, .tile__title, .track__title, .feat h3, .form__title, .process__now b, .partner__name) { font-weight: 500; letter-spacing: -.02em; }
+[data-tema="b"] :is(.area__text, .track__lede, .feat__lede, .method__value, .founder__skills, .sectors) { letter-spacing: -.015em; }
+[data-tema="b"] .card:not(:has(.card__title)) p { font-weight: 500; letter-spacing: -.015em; }
+/* etichette: 600 maiuscolo .14em; trattino nero su chiaro, verde su nero */
+[data-tema="b"] .label { letter-spacing: .14em; color: var(--label, var(--accent)); }
+[data-tema="b"] .label::before { background: var(--dash, currentColor); }
+
+/* ---------- Bottoni e link (§7) ---------- */
+[data-tema="b"] .btn--primary:hover { background: var(--acido-300); }
+[data-tema="b"] .btn--primary::after { mix-blend-mode: normal; background: linear-gradient(105deg, transparent 30%, rgba(255, 255, 255, .6) 50%, transparent 70%); }
+[data-tema="b"] .section--light .btn--ghost { border-color: rgba(12, 13, 11, .35); }
+[data-tema="b"] .cta .btn--primary { background: var(--inchiostro-950); color: var(--acido-400); }
+[data-tema="b"] .cta .btn--primary:hover { background: var(--inchiostro-700); }
+[data-tema="b"] .cta .btn--primary::after { background: linear-gradient(105deg, transparent 30%, rgba(197, 245, 59, .35) 50%, transparent 70%); }
+[data-tema="b"] .cta .btn--ghost { border-color: var(--inchiostro-950); color: var(--inchiostro-950); }
+[data-tema="b"] .cta .btn--ghost:hover { background: rgba(12, 13, 11, .08); }
+/* link: sottolineatura 1 px intera; al passaggio l'evidenziatore si disegna sotto (su chiaro), su nero il testo diventa verde */
+[data-tema="b"] .link::after { transform: scaleX(1); background: currentColor; opacity: .55; transition: opacity .3s var(--ease-quart); }
+[data-tema="b"] .link:hover::after, [data-tema="b"] .link:focus-visible::after { transform: scaleX(1); opacity: 1; }
+[data-tema="b"] .link { background-image: linear-gradient(var(--acido-400), var(--acido-400)); background-repeat: no-repeat; background-size: 0% .55em; background-position: 0 72%; transition: background-size .5s var(--ease-expo), color .25s var(--ease-quart); }
+[data-tema="b"] .link:hover, [data-tema="b"] .link:focus-visible { background-size: 100% .55em; }
+[data-tema="b"] :is(.section--dark, .site-footer) .link { background-image: none; }
+[data-tema="b"] :is(.section--dark, .site-footer) .link:hover { color: var(--acido-400); }
+[data-tema="b"] :is(.section--dark, .site-footer) .link::after { background: var(--acido-400); opacity: 1; } /* filetti verdi su nero */
+
+/* ---------- Testata: tono del capitolo che ha sotto (data-tone="light|dark" lo mette site.js) ---------- */
+[data-tema="b"] .site-header { --h-fg: var(--carta-0); --h-fg-2: var(--nebbia-200); --focus: var(--acido-400); color: var(--h-fg); }
+[data-tema="b"] .site-header[data-tone="light"] { --h-fg: var(--inchiostro-950); --h-fg-2: var(--grafite-600); --focus: var(--inchiostro-950); }
+[data-tema="b"] .site-header.is-solid { background: rgba(12, 13, 11, .72); border-bottom-color: var(--linea-scura); }
+[data-tema="b"] .site-header.is-solid[data-tone="light"] { background: rgba(255, 255, 255, .8); border-bottom-color: var(--linea-chiara); }
+[data-tema="b"] .brand img { transition: filter .35s var(--ease-quart); }
+[data-tema="b"] .site-header[data-tone="light"] .brand img { filter: brightness(0); } /* logo scuro sul bianco (§4) */
+[data-tema="b"] .site-header[data-tone="light"] .brand::after { background-image: linear-gradient(105deg, transparent 38%, rgba(197, 245, 59, .95) 50%, transparent 62%); }
+[data-tema="b"] :is(.nav__toggle, .nav__link) { color: var(--h-fg-2); }
+[data-tema="b"] :is(.nav__toggle:hover, .nav__toggle[aria-expanded="true"], .nav__item[data-current] > .nav__toggle, .nav__link:hover, .nav__link[aria-current="page"]) { color: var(--h-fg); }
+/* voce attiva: su nero filetto verde 2 px, sul bianco l'evidenziatore dietro la parola */
+[data-tema="b"] :is(.nav__toggle, .nav__link)::after { background: var(--acido-400); height: 2px; bottom: 8px; }
+[data-tema="b"] .site-header[data-tone="light"] :is(.nav__toggle, .nav__link)::after { height: .55em; bottom: 13px; z-index: -1; }
+[data-tema="b"] .nav__panel { background: rgba(12, 13, 11, .97); border-color: var(--linea-scura); }
+[data-tema="b"] .nav__panel a { font-weight: 500; letter-spacing: -.01em; }
+[data-tema="b"] .menu-btn { color: var(--h-fg); }
+[data-tema="b"] .progress { height: 3px; }
+
+/* ---------- Menu del telefono (nero) e pillola contatti ---------- */
+[data-tema="b"] .menu { --focus: var(--acido-400); }
+[data-tema="b"] .menu__nav { scrollbar-color: rgba(197, 245, 59, .35) transparent; }
+[data-tema="b"] .menu__group a { font-weight: 500; letter-spacing: -.025em; }
+[data-tema="b"] .dock { background: rgba(12, 13, 11, .9); border-color: var(--linea-scura); box-shadow: 0 20px 40px -18px rgba(0, 0, 0, .6); }
+
+/* ---------- Bussole: linee bianche su nero, nere su chiaro, nere al 14% sul verde; ago nord verde con contorno ---------- */
+[data-tema="b"] .compass { --c-line: 255, 255, 255; --c-letter: var(--nebbia-200); --c-n: var(--acido-400); --c-nn: var(--acido-400); --c-ns: var(--carta-0); --c-hub: var(--inchiostro-950); --c-hub-ring: var(--acido-400); }
+[data-tema="b"] :is(.hero:not(.hero--short), .section--light, .cta) .compass { --c-line: 12, 13, 11; --c-letter: var(--grafite-600); --c-n: var(--inchiostro-950); --c-ns: var(--inchiostro-950); --c-hub: var(--carta-0); --c-hub-ring: var(--inchiostro-950); }
+[data-tema="b"] .cta .compass { --c-nn: var(--inchiostro-950); }
+[data-tema="b"] .compass .c-ring { stroke: rgba(var(--c-line), .42); }
+[data-tema="b"] .compass .c-ring--in { stroke: rgba(var(--c-line), .22); }
+[data-tema="b"] .compass .c-ticks line { stroke: rgba(var(--c-line), .45); }
+[data-tema="b"] .compass .c-ticks line.maj { stroke: rgb(var(--c-line)); }
+[data-tema="b"] .compass .c-rose .a { fill: rgba(var(--c-line), .78); }
+[data-tema="b"] .compass .c-rose .b { fill: rgba(var(--c-line), .05); stroke: rgba(var(--c-line), .7); }
+[data-tema="b"] .compass .c-letters text { fill: var(--c-letter); }
+[data-tema="b"] .compass .c-letters text.n { fill: var(--c-n); }
+[data-tema="b"] .compass .c-needle .nn { fill: var(--c-nn); stroke: var(--inchiostro-950); stroke-width: .9; stroke-linejoin: round; }
+[data-tema="b"] .compass .c-needle .ns { fill: var(--c-ns); stroke: var(--c-ns); }
+[data-tema="b"] .compass .c-needle circle { fill: var(--c-hub); stroke: var(--c-hub-ring); }
+[data-tema="b"] .dial .d-mark.is-active circle { stroke: var(--acido-400); }
+
+/* ---------- Eroe (bianco; Contatti nero) ---------- */
+[data-tema="b"] .hero__dust { display: none; } /* niente polvere d'oro: al suo posto l'evidenziatore (§1) */
+[data-tema="b"] .hero:not(.hero--short) .hero__veil {
+  background: linear-gradient(180deg, rgba(255, 255, 255, .86) 0%, rgba(255, 255, 255, .32) 11%, rgba(255, 255, 255, .76) 26%, rgba(255, 255, 255, .92) 42%, var(--carta-0) 100%);
+}
+@media (min-width: 900px) {
+  [data-tema="b"] .hero:not(.hero--short) .hero__veil {
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, 0) 22%),
+      linear-gradient(90deg, var(--carta-0) 0%, rgba(255, 255, 255, .96) max(34%, 540px), rgba(255, 255, 255, .72) max(48%, 700px), rgba(255, 255, 255, .18) max(62%, 840px), rgba(255, 255, 255, 0) max(72%, 940px)),
+      linear-gradient(0deg, rgba(255, 255, 255, .9) 0%, rgba(255, 255, 255, 0) 32%);
+  }
+}
+/* (la velatura bianca copre sempre la colonna del testo: soglie in px con max(), non solo in %) */
+/* da 1100 px la frase a destra (.hero__aside) sta sopra la foto, in basso: lì la foto sfuma nel bianco */
+@media (min-width: 1100px) {
+  [data-tema="b"] .hero:not(.hero--short):has(.hero__aside:not(.hero__aside--inline)) .hero__veil {
+    background:
+      radial-gradient(44% 50% at 100% 100%, rgba(255, 255, 255, .95) 0%, rgba(255, 255, 255, .82) 42%, rgba(255, 255, 255, 0) 100%),
+      linear-gradient(180deg, rgba(255, 255, 255, .8) 0%, rgba(255, 255, 255, 0) 22%),
+      linear-gradient(90deg, var(--carta-0) 0%, rgba(255, 255, 255, .96) max(34%, 540px), rgba(255, 255, 255, .72) max(48%, 700px), rgba(255, 255, 255, .18) max(62%, 840px), rgba(255, 255, 255, 0) max(72%, 940px)),
+      linear-gradient(0deg, rgba(255, 255, 255, .9) 0%, rgba(255, 255, 255, 0) 32%);
+  }
+  [data-tema="b"] .hero__aside:not(.hero__aside--inline) { color: var(--fg); }
+}
+[data-tema="b"] .hero:not(.hero--short) .hero__shade { background: var(--carta-0); }
+[data-tema="b"] .hero--short .hero__veil { background: linear-gradient(180deg, rgba(12, 13, 11, .8), rgba(12, 13, 11, .86) 60%, var(--inchiostro-950)) !important; }
+[data-tema="b"] .section--flush { padding-top: clamp(56px, 7vw, 112px); } /* dopo un eroe bianco serve lo stacco */
+[data-tema="b"] .hero:not(.hero--short) .hero__compass { filter: drop-shadow(0 14px 26px rgba(12, 13, 11, .18)); }
+[data-tema="b"] .hero__scroll { color: var(--fg-3); }
+[data-tema="b"] .hero__scroll span { background: linear-gradient(var(--fg), transparent); }
+[data-tema="b"] .hero .sectors { color: var(--fg); }
+[data-tema="b"] .hero .sectors li + li::before { background: var(--accent-strong); }
+[data-tema="b"] .hero__aside { font-weight: 500; letter-spacing: -.02em; color: var(--fg-2); border-top-color: var(--line); }
+/* eroe diviso (Executive Coaching): la foto sfuma nel bianco */
+[data-tema="b"] .hero__fade { background: linear-gradient(180deg, rgba(255, 255, 255, .62) 0%, rgba(255, 255, 255, 0) 26%, rgba(255, 255, 255, 0) 62%, var(--carta-0) 100%); }
+@media (min-width: 900px) {
+  [data-tema="b"] .hero__fade { background: linear-gradient(90deg, var(--carta-0) 0%, rgba(255, 255, 255, .55) 16%, rgba(255, 255, 255, 0) 40%), linear-gradient(180deg, rgba(255, 255, 255, .7) 0%, rgba(255, 255, 255, 0) 22%), linear-gradient(0deg, rgba(255, 255, 255, .5) 0%, rgba(255, 255, 255, 0) 28%); }
+}
+
+/* ---------- Foto in bianco e nero (tutte le foto di contenuto; non il logo né l'emblema) ---------- */
+[data-tema="b"] picture img { filter: grayscale(1) contrast(1.05); }
+[data-tema="b"] .section--light :is(.frame, .tile__media) { background: var(--carta-100); }
+
+/* ---------- Home ---------- */
+[data-tema="b"] .statement__line { width: 120px; height: 10px; background: var(--acido-400); } /* barra verde che si allunga da sinistra */
+[data-tema="b"] .marquee__track > * { font-style: normal; font-weight: 500; letter-spacing: -.03em; color: var(--carta-0); }
+[data-tema="b"] .marquee__track .g { color: var(--acido-400); }
+[data-tema="b"] .panel__media::after { background: linear-gradient(0deg, rgba(29, 31, 27, .72), transparent 45%); }
+[data-tema="b"] .panel__title { font-style: normal; font-weight: 500; letter-spacing: -.035em; }
+/* frase che si accende: la foto si schiarisce e una barra verde si allunga sotto la frase (--bar animata da site.js) */
+[data-tema="b"] .lightup__veil { background: linear-gradient(180deg, rgba(12, 13, 11, .62), rgba(12, 13, 11, .8) 70%, var(--inchiostro-950)); }
+[data-tema="b"] .lightup__glow { display: none; }
+[data-tema="b"] .lightup__text .quote::after { content: ""; display: block; height: 10px; margin-top: .42em; background: var(--acido-400); transform-origin: left; transform: scaleX(var(--bar, 1)); }
+html.anim[data-tema="b"] .lightup__text .quote { --bar: 0; }
+/* sigillo: nero, emblema bianco, scritta verde */
+[data-tema="b"] .seal { filter: drop-shadow(0 18px 30px rgba(12, 13, 11, .3)); }
+[data-tema="b"] .seal__ring { stroke: rgba(255, 255, 255, .3); }
+[data-tema="b"] .seal image { filter: brightness(0) invert(1); }
+
+/* ---------- Modello a passi: linea nera (su chiaro) che si disegna, tappe che si accendono in verde ---------- */
+[data-tema="b"] .track__step.is-on .track__dot::after { background: var(--acido-400); }
+[data-tema="b"] .section--light .track__step.is-on .track__dot { background: var(--inchiostro-950); border-color: var(--inchiostro-950); }
+[data-tema="b"] .partner { border: 0; border-top: 2px solid var(--inchiostro-950); background: var(--carta-50); }
+
+/* ---------- Executive Search: barra mobile del quadrante, fase attiva con la barra verde ---------- */
+[data-tema="b"] .process__dialwrap { background: rgba(12, 13, 11, .92); }
+@media (min-width: 900px) { [data-tema="b"] .process__dialwrap { background: none; } }
+[data-tema="b"] .step { position: relative; }
+[data-tema="b"] .step::before { content: ""; position: absolute; left: 0; top: 0; width: 56px; height: 3px; background: var(--acido-400); transform: scaleX(0); transform-origin: left; transition: transform .6s var(--ease-expo); }
+[data-tema="b"] .js-process .step.is-active::before { transform: scaleX(1); }
+
+/* ---------- Executive Coaching: bordo che si illumina di verde ---------- */
+[data-tema="b"] .area::before { background: radial-gradient(280px circle at var(--mx, 50%) var(--my, 50%), rgba(197, 245, 59, .9), transparent 65%); }
+[data-tema="b"] .area::after { background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), rgba(197, 245, 59, .07), transparent 70%); }
+
+/* ---------- Contatti ---------- */
+[data-tema="b"] .chip.is-done { border-color: var(--inchiostro-950); background: var(--acido-400); }
+[data-tema="b"] .form { background: var(--carta-0); }
+[data-tema="b"] .field input, [data-tema="b"] .field textarea { border-color: rgba(12, 13, 11, .25); }
+[data-tema="b"] .field input:focus, [data-tema="b"] .field textarea:focus { border-color: var(--inchiostro-950); box-shadow: 0 0 0 3px var(--acido-400); }
+[data-tema="b"] .form__ok { background: var(--carta-50); border: 1px solid var(--linea-chiara); border-left: 4px solid var(--acido-400); }
+
+/* ---------- Componenti delle pagine aggiunte ---------- */
+[data-tema="b"] a.tile:hover { box-shadow: 0 34px 60px -38px rgba(12, 13, 11, .5); }
+[data-tema="b"] .phase::before { top: -2px; height: 3px; background: var(--acido-400); }
+[data-tema="b"] .band__veil { background: linear-gradient(180deg, rgba(12, 13, 11, .62) 0%, rgba(12, 13, 11, .5) 40%, rgba(12, 13, 11, .8) 80%, var(--inchiostro-950) 100%); }
+@media (min-width: 900px) {
+  [data-tema="b"] .band__veil {
+    background:
+      linear-gradient(90deg, rgba(12, 13, 11, .9) 0%, rgba(12, 13, 11, .6) 46%, rgba(12, 13, 11, .16) 100%),
+      linear-gradient(0deg, var(--inchiostro-950) 0%, rgba(12, 13, 11, 0) 26%),
+      linear-gradient(180deg, rgba(12, 13, 11, .7) 0%, rgba(12, 13, 11, 0) 18%);
+  }
+}
+[data-tema="b"] .figure a::after {
+  border-color: rgba(197, 245, 59, .7); background-color: rgba(12, 13, 11, .82);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' fill='%23c5f53b'%3E%3Cpath d='M214,48V96a6,6,0,0,1-12,0V62.48l-53.76,53.76a6,6,0,0,1-8.48-8.48L193.52,54H160a6,6,0,0,1,0-12h48A6,6,0,0,1,214,48ZM107.76,139.76,54,193.52V160a6,6,0,0,0-12,0v48a6,6,0,0,0,6,6H96a6,6,0,0,0,0-12H62.48l53.76-53.76a6,6,0,0,0-8.48-8.48Z'/%3E%3C/svg%3E");
+}
+@media (hover: hover) { [data-tema="b"] .figure a:hover::after { background-color: rgba(12, 13, 11, .95); } }
+
+/* ---------- Footer (nero) ---------- */
+[data-tema="b"] .site-footer { border-top-color: var(--linea-scura); }
+[data-tema="b"] .footer__claim { font-weight: 500; letter-spacing: -.045em; line-height: .92; }

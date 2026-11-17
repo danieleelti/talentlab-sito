@@ -1,0 +1,17 @@
+   86 1133 [25px 700] MENU
+  996  322 [21px 400] IL METODO
+ 1038  231 [42px 400] EXECUTIVE COACHING
+ 1097  236 [36px 400] UN PERCORSO SU MISURA PER UN IMPATTO REALE
+ 1157  236 [21px 400] Un metodo strutturato, flessibile e concreto per trasformare consapevolezza, potenziale e intenzioni in comportamenti e risultati nel contesto reale
+ 1294  234 [21px 400] LE FASI DEL PERCORSO
+ 1388  318 [18px 400] MAPPING
+ 1387  631 [18px 400] DEEP SCAN
+ 1388  982 [18px 400] FOCUS
+ 1456  250 [19px 400] Identità manageriale, autorevolezza e capacità di guida. Una leadership più consapevole, pragmatica e sostenibile
+ 1456  557 [18px 400] Gestione delle complessità, responsabilità e qualità delle decisioni. Dalla riflessione all'azione, con maggiore lucidità e sicurezza
+ 1454  909 [18px 400] Relazioni, comunicazione, feedback e sviluppo delle persone. Team più motivati, allineati e orientati al risultato
+ 1662  321 [18px 400] ACTION
+ 1662  662 [16px 400] EVOLUTION
+ 1746  249 [17px 400] Priorità, execution e trasformazione delle intenzioni in azione. Risultati più concreti e un impatto duraturo nel tempo
+ 1746  587 [18px 400] Monitoraggio dei progressi, consolidamento delle nuove abitudini e misurazione dell'impatto nel tempo. Nuove prospettive di crescita.
+ 1925  234 [21px 400] I NOSTRI STRUMENTI PROPRIETARI

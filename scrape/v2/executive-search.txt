@@ -1,0 +1,31 @@
+   86 1133 [25px 700] MENU
+  263  332 [16px 400] EXECUTIVE SEARCH
+  303  222 [50px 700] EXECUTIVE SEARCH
+  363  222 [50px 400] SPECIALIZZAZIONE
+  423  222 [50px 400] CHE DIVENTA METODO
+  503  231 [21px 400] BANKING & FINANCE SPECIALIST PRACTICE
+  583  222 [21px 400] Un percorso progettato per Banche, Reti di Consulenza Finanziaria, Private Banking e Wealth Management, costruito sulla conoscenza delle dinamiche professionali, organizzative e di sviluppo del settore
+  881 1057 [30px 400] Persone giuste
+  923  993 [30px 400] Organizzazioni forti
+ 1112  653 [20px 400] DEFINIZIONE
+ 1112  973 [20px 400] PROGETTAZIONE
+ 1122  343 [20px 400] ANALISI
+ 1181  254 [18px 400] Analisi dell’azienda committente, del contesto, degli obiettivi di sviluppo e del bisogno di talenti
+ 1184  564 [18px 400] Definizione del profilo del candidato target e dei criteri di ricerca e valutazione
+ 1183  894 [18px 400] Progettazione della strategia e dell'iter di Executive Search, su misura per l'organizzazione
+ 1367  401 [20px 400] AZIONI
+ 1376  869 [20px 400] REVISIONE
+ 1456  311 [19px 400] Scouting, contatto, screening, assessment, colloqui e affiancamento al processo di scelta
+ 1457  798 [18px 400] Analisi delle attività, feedback e reportistica per misurare i risultati e valorizzare l'investimento
+ 1664  640 [18px 400] PIÙ DI UNA RICERCA
+ 1707  588 [16px 400] UN PERCORSO DI SVILUPPO PER CHI GUIDA IL CAMBIAMENTO
+ 1813  567 [17px 400] Affianchiamo manager ed organizzazioni con formazione tecnica
+ 1895  576 [17px 400] e supporto operativo per sviluppare le competenze necessarie a gestire direttamente sourcing, colloquio, valutazione e negoziazione.
+ 2281  303 [21px 400] Formazione
+ 2281 1013 [20px 400] Analisi e reportistica
+ 2306  297 [21px 400] manageriale
+ 2343  308 [19px 400] Metodi, strumenti, simulazioni
+ 2349  653 [17px 400] Conduzione
+ 2359  993 [18px 400] Dati, insight e raccomandazioni
+ 2369  658 [17px 400] one to one,
+ 2390  656 [17px 400] analisi e valutazione

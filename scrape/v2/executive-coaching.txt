@@ -1,0 +1,25 @@
+   86 1133 [25px 700] MENU
+  910  221 [42px 400] EXECUTIVE COACHING
+  933  672 [42px 400] COACHING FOR CHANGE
+  984  221 [33px 400] Percorsi di sviluppo per chi guida persone, decisioni e organizzazioni
+ 1042  221 [29px 400] Il coaching per noi non è uno spazio astratto di riflessione
+ 1077  221 [29px 400] è un intervento costruito intorno alla persona, al ruolo e al contesto organizzativo reale, per trasformare consapevolezza e potenziale in comportamenti capaci di produrre impatto e valore.
+ 1181  221 [29px 400] Sviluppiamo percorsi di coaching individuale per leader, manager e professionisti che desiderano ampliare la propria consapevolezza per generare un impatto concreto e sostenibile nel proprio contesto professionale
+ 1376  234 [21px 400] LE AREE DI INTERVENTO
+ 1470  318 [18px 400] LEADERSHIP
+ 1469  631 [18px 400] DECISION MAKING
+ 1470  982 [18px 400] PEOPLE MANAGEMENT
+ 1554  245 [18px 400] Identità manageriale, autorevolezza e capacità di guida. Una leadership più consapevole, pragmatica e sostenibile
+ 1553  567 [18px 400] Gestione delle complessità, responsabilità e qualità delle decisioni. Dalla riflessione all'azione, con maggiore lucidità e sicurezza
+ 1744  321 [18px 400] PERFORMANCE
+ 1759  662 [16px 400] CENTRATO SULLA PERSONA
+ 1752  961 [16px 400] UTILIZZO DI FRAMEWORK PROPRIETARI
+ 1828  249 [17px 400] Priorità, execution e
+ 1828  895 [17px 400] Utilizzo di framework di pronto utilizzo in risposta alle differenti esigenze del coachee. Creazione di strumenti customizzati sulle esigenze specifiche
+ 1848  249 [18px 400] trasformazione delle intenzioni in azione. Risultati più concreti e un impatto duraturo nel tempo
+ 1959  651 [18px 400] ORIENTATO ALL'AZIONE
+ 1959  961 [16px 400] IMPATTO NEL TEMPO
+ 2034  579 [17px 400] Dalla consapevolezza personale e di ruolo al comportamento
+ 2035  885 [17px 400] Cambiamento sostenibile e crescita continua
+ 2157  522 [58px 700] La consapevolezza diventa valore
+ 2227  522 [58px 700] quando cambia il modo di agire

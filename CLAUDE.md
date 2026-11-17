@@ -6,7 +6,7 @@ fatto il 17/11/2026 da Daniele (TeamBuilding.it) con Claude Code e passato a Ric
 sito è di Riccardo**: questa cartella è il suo laboratorio, lui decide testi, foto, versione e quando pubblicare.
 Le demo di partenza sono online (non indicizzate, restano finché Daniele le toglie):
 **A «Notte e oro»** https://www.teambuildingsrl.it/riccardo/ · **B «Verde acido»** https://www.teambuildingsrl.it/riccardo2/.
-Il repo è privato e lo resta: dentro ci sono le foto di Riccardo e la sua brochure.
+Il repo di partenza di Daniele (`danieleelti/talentlab-sito`) è **pubblico** per scelta di Daniele (17/11/2026: niente di riservato dentro, il sito è già online e le foto del titolare sono generate). Il lavoro di Riccardo va in un **repo suo** (`git remote set-url origin …`), privato o pubblico come preferisce: la regola è che non viva solo sul server.
 
 ## Vederlo subito (niente da compilare)
 `sito/` (A) e `sito-b/` (B) sono già pronti. Dal server:
